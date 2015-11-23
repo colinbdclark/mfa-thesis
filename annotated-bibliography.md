@@ -2,7 +2,13 @@
 
 ## Agamben, Giorgio. _The Coming Community_. Trans. Michael Hardt. Minneapolis: University of Minnesota Press, 1993. Print.
 
+## Agamben, Giorgio. _What is an Apparatus?_. Trans. David Kishik and Stefan Pedatella. Stanford: Stanford University Press, 2009.
+
 ## Bal, Mieke. _Travelling Concepts in the Humanities: A Rough Guide_. Toronto: University of Toronto Press, 2002. Print.
+
+## Basman, Antranig. "If What We Made Were Real." Fluid Project Wiki. 2 May 2014. Web. 11 August 2014.
+
+## Basman, Antranig, Colin Clark, and Clayton Lewis. "Harmonious Authorship from Different Representations." _Psychology of Programming Interest Group Annual Conference 2015_. Melanie Coles and Gail Ollis, eds. Web. http://www.ppig.org/sites/default/files/2015-PPIG-26th-Basman.pdf
 
 ## Brakhage, Stan. _Essential Brakhage: Selected Writings on Filmmaking_. New York: McPherson and Company, 2001.
 
@@ -10,7 +16,13 @@
 
 ## Chambers, Jack "Perceptual Realism." _Films of Jack Chambers_. Kathryn Elder, ed. Toronto: Toronto International Film Festival, 2002. 33-44. Print.
 
+## Clark, C., Tindale, A. (2014). Flocking: A Framework for Declarative Music-Making on the Web. In Proceedings of the International Computer Music Conference, International Computer Music Association (pp. 1550-1557).
+
 ## Clarke, Bruce and Mark B.N. Hansen. _Emergence and Embodiment: New Essays on Second-Order Systems Theory_. Durham: Duke University Press, 2009. Print.
+
+## Deleuze, Gilles. _Bergsonism_. Trans. Hugh Tomlinson and Barbara Habberjam. New York: Zone, 1991.
+
+## Flusser, Villem. _Towards a Philosophy of Photography_. Trans. Anthony Mathews. London: Reaktion Books, 2000.
 
 ## Fuller, Matthew. _Behind the Blip_. Brooklyn: Autonomedia, 2003. Print.
 
@@ -18,11 +30,23 @@
 
 ## Grusin, Richard, ed. _The Nonhuman Turn_. Minneapolis: University of Minnesota Press, 2015. Print.
 
+## Hansen, Mark. _Bodies in Code_. New York: Routledge, 2006.
+
+## Hansen, Mark. _Feed-forward: On the Future of Twenty-first-century Media. Chicago: University of Chicago Press, 2015.
+
 ## Hess, Felix. _Light as Air_. Heidelberg: Velag Kehrer, 2001. Print.
 
 Felix Hess is a sound and installation artist who uses simple technologies to create unstable, interacting "agents" that couple natural processes, technological networks, and human perceptual sensitivity to the environment. _Light as Air_ includes essay by Hess and others that emphasize the role of sensitivity and attention within his work, two themes that are crucial to my own artistic practice.
 
 ## Idhe, Don. "Stretching the In-between: Embodiment and Beyond." Foundations of Science (2011) 16: 109-118.
+
+## Illich, Ivan. _Tools for Conviviality_. New York: Harper and Row, 1973.
+
+## Kittler, Friedrich. "There is No Software." _CTheory_ (1995) a032. Arthur and Marilouise Kroker, eds. Web. http://www.ctheory.net/articles.aspx?id=74
+
+Kittler argues here that computation must be understood as essentially embodied, not "soft," but always as ultimately constituted by electrical impulses within the physical architecture of the machine. This physicality is obscured or sedimented by an "environment of everyday languages," without which we would be able to clearly see software's dependence on "transformation[s] of matter from entropy to information, from a million sleeping transistors into differences between electronic potentials."
+
+While I don't disagree with Kittler, this appeal to computation's materialization as hardware obscures the material bodies that software also forms. While these may be invisible and somewhat intangible bodies (like sound itself), software nonetheless also possess a material that is of the order of the real, and which has very tangible effects on our everyday embodiment.
 
 ## Latour, Bruno. _Reassembling the Social: An Introduction to Actor-Network-Theory_. Oxford: Oxford University Press, 2005. Print.
 
@@ -32,7 +56,11 @@ Felix Hess is a sound and installation artist who uses simple technologies to cr
 
 These two articles introduce Latour's idea of _immutable mobiles_, of the "alignments" and correspondences that remain consistent across the continuous series of transformations that is our experience of "the world." Here, the idea of information as a stable medium for representation is critiqued, replacing it with a model of transformation analogous both to the method of "lensing" that is crucial to my own argument about the function of artworks, as well as to the technologies that constitute my artwork.
 
+## Manovich, Lev. “On Totalitarian Interactivity: Notes From the Enemy of the People.” Web. http://manovich.net/content/04-projects/015-on-totalitarian-interactivity/14_article_1996.pdf
+
 ## Priest, eldritch. _Boring Formless Nonsense: Experimental Music and the Aesthetics of Failure_. New York: Bloomsbury, 2013. Print.
+
+## Rokeby, David. "The Construction of Experience: Interface as Content." _Digital Illusion: Entertaining the Future with High Technology_. Dodsworth, Clark Jr., ed. New York: ACM Press, 1998. Web. http://www.davidrokeby.com/experience.html
 
 ## Schweitzer, Howard. _On Waiting_. New York: Routledge, 2008. Print.
 
@@ -45,3 +73,11 @@ Stiegler argues for the essentially cinematic nature of consciousness, extending
 ## Wark, McKenzie. _A Hacker Manifesto_. Cambridge: Harvard University Press, 2004. Print.
 
 ## Wark, McKenzie. _Telesthesia_. Cambridge: Polity Press, 2012. Print.
+
+## Wegner, Peter. "Why Interaction is More Powerful Than Algorithms." _Communications of the ACM_ 40.5 (1997): 80-91.
+
+## Wing, Jeannette M. "Computational thinking." _Communications of the ACM_ 49.3 (2006): 33-35.
+
+This article argues for the importance of teaching "computational thinking" skills to children in order to better prepare them for the increasingly critical role that computational systems play in our everyday lives. Wing, however, believes uncritically in the idea of computation as an abstractional logic, and as such argues for an essentially imperialist position for computation: "Computational thinking will have become ingrained in everyone’s lives when words like algorithm and precondition are part of everyone’s vocabulary; when nondeterminism and garbage collection take on the meanings used by computer scientists; and when trees are drawn upside down."
+
+In contrast, my argument rejects this prevailing notion of computation's essential abstraction (drawing on, among other things, Alan Blackwell's "The Abstract is the Enemy" PPIG paper), positioning it (via creative practice) as a physical and material (i.e. concrete) force in the world, which acts on is and is acted on by our own bodies.
