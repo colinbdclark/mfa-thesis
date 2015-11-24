@@ -72,6 +72,14 @@ Stiegler argues for the essentially cinematic nature of consciousness, extending
 
 ## Wark, McKenzie. _A Hacker Manifesto_. Cambridge: Harvard University Press, 2004. Print.
 
+## Wark, McKenzie. "Designs for a New World." _e-flux_ 58: (2014). Web. http://www.e-flux.com/journal/designs-for-a-new-world/
+
+Wark positions art and design rooted in the same activity--the creation of new forms. From a methodological perspective, this supports my practice as both a designer (creator of software forms) and video artist/musician (creator of perceptual forms).
+
+"Capitalism split production into two separate domains: the production of form and the production of content... Art is a subset of design. But it is a marginalized kind of design. The strategy then is firstly to assert the role of art as design, and secondly to overcome the separation of form and content in production."
+
+Wark also, in this article, attacks the notion of "immaterial labour," which supports the idea that even ideas (and computer programs) have a body.
+
 ## Wark, McKenzie. _Telesthesia_. Cambridge: Polity Press, 2012. Print.
 
 ## Wegner, Peter. "Why Interaction is More Powerful Than Algorithms." _Communications of the ACM_ 40.5 (1997): 80-91.
