@@ -2,15 +2,25 @@
 
 ## Agamben, Giorgio. _The Coming Community_. Trans. Michael Hardt. Minneapolis: University of Minnesota Press, 1993. Print.
 
+In _The Coming Community, Agamben describes a metaphysics of being and community that isn't defined by identity or representation, but of _whatever_ being, neither wholely class nor instance, but "things are just as they are, in this or that mode, consigned without remedy to their way of being... How you are, how the world is" (90).
+
 ## Agamben, Giorgio. _What is an Apparatus?_. Trans. David Kishik and Stefan Pedatella. Stanford: Stanford University Press, 2009.
+
+Here, Amgaben reworks Foucault's concept of the _apparatus_, extending it to "literally anything that has in some way the capacity to capture, orient, determine, intercept, model, control, or secure the gestures, behaviors, opinions. or discourses of living beings" (25). He argues that an apparatus is the primary instrument of subjectification (of 'humanization'), but that today's apparatuses, especially the capitalist spectacle and technologies have disrupted this process of relationship-drawing between individual and environment, and serve now as de-subjectifiers. The key, in response, is to find means to "profane" apparatuses, to restore them to the commons, "to the use and property of human beings." Agamben doesn't propose specific tactics for profanation, nor models for media or technological apparatuses that retain their subjectificative qualities, but of course one can speculate.
 
 ## Bal, Mieke. _Travelling Concepts in the Humanities: A Rough Guide_. Toronto: University of Toronto Press, 2002. Print.
 
 ## Basman, Antranig. "If What We Made Were Real." Fluid Project Wiki. 2 May 2014. Web. 11 August 2014.
 
+A polemic against the present methods of software construction, arguing that today we have only two-dimensional, artificial software constructions (as if they were movie sets); architectures that serve largely to consolidate power in the hands of software developers instead of user.
+
 ## Basman, Antranig, Colin Clark, and Clayton Lewis. "Harmonious Authorship from Different Representations." _Psychology of Programming Interest Group Annual Conference 2015_. Melanie Coles and Gail Ollis, eds. Web. http://www.ppig.org/sites/default/files/2015-PPIG-26th-Basman.pdf
 
+An in-depth description of the underlying software architecture that supports Flocking and Aconite.
+
 ## Brakhage, Stan. _Essential Brakhage: Selected Writings on Filmmaking_. New York: McPherson and Company, 2001.
+
+An oblique description of the vitality of vision, of multiple modes and strategies of imaginative visual perception. A clear polemic against the regime of technique and self-erasure of hollywood filmmaking, and a lovely description of camera-shake as the beating heart of the "filmmaker as lover."
 
 ## Cecchetto, David. _Humanesis: Sound and Technological Posthumanism_. Minneapolis: University of Minnesota Press, 2013. Print.
 
@@ -28,11 +38,11 @@
 
 ## Galloway, Alexander. _The Interface Effect_. Cambridge: Polity Press, 2012. Print.
 
-## Grusin, Richard, ed. _The Nonhuman Turn_. Minneapolis: University of Minnesota Press, 2015. Print.
+## Bennett, Jane. "Systems and Things." Grusin, Richard, ed. _The Nonhuman Turn_. Minneapolis: University of Minnesota Press, 2015. Print.
+
+Bennett mediates between object-oriented ontology's emphasis on materialism and the essential "differential" or distance between objects, and Deleuze and Guattari's more systems-oriented concept of "assemblages" or networks of intensities, affects, and interactions. Bennett proposes a model where even otherwise apparently intangible, empheral assemblages such as poetry (or in my case, computer programs) can have a body and agency.
 
 ## Hansen, Mark. _Bodies in Code_. New York: Routledge, 2006.
-
-## Hansen, Mark. _Feed-forward: On the Future of Twenty-first-century Media. Chicago: University of Chicago Press, 2015.
 
 ## Hess, Felix. _Light as Air_. Heidelberg: Velag Kehrer, 2001. Print.
 
@@ -56,8 +66,6 @@ While I don't disagree with Kittler, this appeal to computation's materializatio
 
 These two articles introduce Latour's idea of _immutable mobiles_, of the "alignments" and correspondences that remain consistent across the continuous series of transformations that is our experience of "the world." Here, the idea of information as a stable medium for representation is critiqued, replacing it with a model of transformation analogous both to the method of "lensing" that is crucial to my own argument about the function of artworks, as well as to the technologies that constitute my artwork.
 
-## Manovich, Lev. “On Totalitarian Interactivity: Notes From the Enemy of the People.” Web. http://manovich.net/content/04-projects/015-on-totalitarian-interactivity/14_article_1996.pdf
-
 ## Priest, eldritch. _Boring Formless Nonsense: Experimental Music and the Aesthetics of Failure_. New York: Bloomsbury, 2013. Print.
 
 ## Rokeby, David. "The Construction of Experience: Interface as Content." _Digital Illusion: Entertaining the Future with High Technology_. Dodsworth, Clark Jr., ed. New York: ACM Press, 1998. Web. http://www.davidrokeby.com/experience.html
@@ -79,8 +87,6 @@ Wark positions art and design rooted in the same activity--the creation of new f
 "Capitalism split production into two separate domains: the production of form and the production of content... Art is a subset of design. But it is a marginalized kind of design. The strategy then is firstly to assert the role of art as design, and secondly to overcome the separation of form and content in production."
 
 Wark also, in this article, attacks the notion of "immaterial labour," which supports the idea that even ideas (and computer programs) have a body.
-
-## Wark, McKenzie. _Telesthesia_. Cambridge: Polity Press, 2012. Print.
 
 ## Wegner, Peter. "Why Interaction is More Powerful Than Algorithms." _Communications of the ACM_ 40.5 (1997): 80-91.
 
