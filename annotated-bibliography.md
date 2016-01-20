@@ -93,6 +93,9 @@ Genosko's overview of Felix Guattari's methodological heterogeneity, _transveral
 
 ## Hansen, Mark. _Bodies in Code_. New York: Routledge, 2006.
 
+Hansen argues for the co-implication of humans with technology producing a reality that is always _mixed_. "Technicity, understood in its broadest sense as a relation to exteriority, as exteriorization, is not and cannot be something merely added on to some 'natural' core of embodied life. Rather, it must be understood to be a constitutive dimension of embodiment from the start" (ix-x). Echoing Stiegler, he sees technics as constituting humanity ("a stage in the ongoing technogenesis of the human" (21), and he positions this mixed reality within a kind of haptics: "Let us say that mixed reality appears from the moment that tools first delocalized and distributed human sensation, notably touch and vision... mixed reality, then, designates the general condition of phenomenalization ensuing from the 'originary' coupling of the human and the technical... a condition which can only be thought under the category of the transcendental because it can only be known through its effects" (9).
+
+Hansen, via Massumi, casts the body as transformer of the virtual, "the analog creates reality out of the fusion or mixing of realms, out of transformation; not surprisingly, the body forms its primary agent: 'If sensation is the analog processing by body-matter of ongoing transformative forces, then foremost among them are forces of appearing as such: of coming into being, registering as becoming. The body, sensor of change, is a transducer of the virtual'" (6).
 
 ## Hiebert, Ted. "Delirious Screens: Flesh Shadows and Cool Technology." _CTheory_. Web. http://www.ctheory.net/articles.aspx?id=592
 
@@ -144,6 +147,14 @@ A strange and wonderful argument for the radical closure of a work of art (in co
 
 ## Priest, eldritch. _Boring Formless Nonsense: Experimental Music and the Aesthetics of Failure_. New York: Bloomsbury, 2013. Print.
 
+Eldritch's furiously ambivalent work on failure and boredom oscillates through a post-Baudrillardian cynicism to the kind of open-ended possibility of "listening away" within the ever-deferred state of waiting. On the one hand, he compelling argues that the '60s-era justification of "boring works" no longer operates, and instead has been fully colonized by a capitalistic and neo-liberal extension of the individual's responsibility to self-actualize and self-produce.
+
+"...my intentions... are directed primarily at adjusting the terms and stakes of what I see as boredom's standardized justification in art and music as a way to delegate a work's meaning or value to the recipient--a gesture that is not without its merits--it is also a first attempt to baffle or outplay (dejouer) the discursive paradigm that frames so much criticism and analysis of avant-garde music." (21)
+
+On the other hand, arguing that "ours is not merely a bored culture, but a culture in waiting" (44), he reclaims waiting (akin to Schweitzer) not as _waiting for_, but as "a non-discursive art of organizing human experience without a proper time or place outside of its own occurence. Waiting can happen anywhere, anywhen. How one waits is mandated by circumstances, but the capacity to wait is independent of any variation it may take. As such, 'to wait' characterizes a bizarre inactive activity that 'operates outside of the enlightened discourse which it lacks'" (67-8).
+
+Ultimately, he brings the possibility of this localized listening back to our embodiment: "those who wait, become, in Lyotard's lovely words, 'good intensity-conducting bodies,' bodes whose alternating expressions of wonder and fatigue are testament to the radical ambi-valence of events" (73-4).
+
 ## Schweitzer, Howard. _On Waiting_. New York: Routledge, 2008. Print.
 
 An exploration of waiting "as such"--as a undirected experience of duration and deferral, rather than simply a transit zone on the way to goals and accomplishments. Provides a Bergsonian interpretation of waiting and attention, and explores co-extensivity and openness in artwork.
@@ -159,6 +170,12 @@ Sitney: "the film operates within a gravitational field in which traction, frict
 Stiegler argues for the essentially cinematic nature of consciousness, extending Husserl’s notion of primary and secondary retention with tertiary (i.e. technologically-mediated) memory. Of particular note to my work is Stiegler’s treatment of how the cinematic flow of time becomes interwoven with the viewer’s own consciousness perceptually and technologically. I intend to use this as part of an argument about how my work, and that of others, binds together memory, imagination, and cinematic perception with the everyday lived experience of the spectator. "'Recollection' is thus impossible... in all remembering of a past temporal object there is a necessary process of dérushage, of montage, a play of special effects, of slowing down, accelerating, etc." (27). Also provides some support for the idea of cinema (and other artwork) as an "energy machine" that modulates time and experience.
 
 ## Wark, McKenzie. _A Hacker Manifesto_. Cambridge: Harvard University Press, 2004. Print.
+
+Put simply, Wark's manifesto provides a argument for the power of creativity to reconfigure the world.
+
+Echoing Agamben in _The Coming Community_, Wark argues for the powers of creative expression over representation: "There is no representation that confers on the producing classes an identity. There is nothing around which its multiplicities can unite... it is the abstraction itself that must be transformed, not the representations that it foists..." (105) "To hack is to refuse representation, to make matters express themselves otherwise... To hack is to trouble the object or the subject, by transforming in some way the very process of production by which objects and subjects come into being and recognize each other by their representations" (109).
+
+Wark's text provides a model for an alternative politics of software and artistic creation, one which is open and community-oriented in nature, and which I see as a current running through my own work.
 
 ## Wark, McKenzie. "Designs for a New World." _e-flux_ 58: (2014). Web. http://www.e-flux.com/journal/designs-for-a-new-world/
 
