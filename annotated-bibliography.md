@@ -10,6 +10,12 @@ For me, _The Coming Community_ provides a (perplexing) instance of theorizing th
 
 Here, Amgaben reworks Foucault's concept of the _apparatus_, extending it to "literally anything that has in some way the capacity to capture, orient, determine, intercept, model, control, or secure the gestures, behaviors, opinions, or discourses of living beings" (25). He argues that an apparatus is the primary instrument of subjectification (of "humanization"), but that today's apparatuses, especially the spectacle and consumer technologies have disrupted this process of relationship-drawing between individual and environment, and serve now as de-subjectifiers. The key, in response, is to find means to "profane" apparatuses, to restore them to the commons, "to the use and property of human beings." Agamben doesn't propose specific tactics for profanation, nor models for media or technological apparatuses that can retain their subjectificative qualities, but of course one can speculate.
 
+## Antin, David. "Video: The Distinctive Features of the Medium." _Video Art: An Anthology_. Eds. Ira Schneider and Beryl Korot. San Diego: Harcourt, 1976.
+
+Antin argues for video's essential connection with the commerce of television. Duration in video works, then, always works in reference to the structures, rhythms, and timescales of advertisements and programs.
+
+"But the time standard of television is based firmly on the social and economic nature of the industry itself, and has nothing whatever to do with the absolute technical and phenomenological possibilities of visual representation by cathode ray tube. For television, time has an absolute existence independent of any imagery that may or may not be transmitted over its well-defended airwaves and cables. It is television's only solid, tangible commodity that is precisely divisible into further and further subdivisible homogeneous units, the smallest quantum of which is measured by the smallest segment that could be purchased by a potential advertiser, which is itself defined by the minimum particle required to isolate a salable product from among a variable number of equivalent alternatives" (178).
+
 ## Bal, Mieke. _Travelling Concepts in the Humanities: A Rough Guide_. Toronto: University of Toronto Press, 2002. Print.
 
 A key methodological text. Bal's method of _framing_ echoes my own idea of "lensing." In particular, Bal emphasizes framing as a active process that is bi-directional between framer and framed; framing produces "an event... is primarily an activity... performed by an agent who is responsible, accountable, for his or her acts. Furthermore... the agent of framing is framed in turn" (135). Framing is durational, ongoing: "where there is duration, change inevitably occurs: differences emerge over time" (136). Most importantly, framing, like lensing, participates in the constitution of the work as well as its perception and reception: "The frame is the link between work and world, not the cut between them" (141).
@@ -141,6 +147,12 @@ A strange and wonderful argument for the radical closure of a work of art (in co
 ## Schweitzer, Howard. _On Waiting_. New York: Routledge, 2008. Print.
 
 An exploration of waiting "as such"--as a undirected experience of duration and deferral, rather than simply a transit zone on the way to goals and accomplishments. Provides a Bergsonian interpretation of waiting and attention, and explores co-extensivity and openness in artwork.
+
+## Sitney, P. Adams. "Ernie Gehr and the Axis." _Eyes Upside Down: Visionary Filmmakers and the Heritage of Emerson_. Oxford: Oxford University Press, 2008.
+
+Sitney devotes a full chapter to Ernie Gehr, who I will write about in terms of his films' ability, (via duration and "structural" concerns) to modulate our during- and after-the-fact embodiment and perception. Gehr's _Side/Walk/Shuttle_ literally transforms gravity _in our real experience_ via its patient and poetic formal operations.
+
+Sitney: "the film operates within a gravitational field in which traction, friction, and the position of the body play crucial roles in our sense of place" (232), where "groundlessness is as central to Gehr's cinematic oeuvre as the allegory of the displaced person is to Mekas’s or the loss of home to Brakhage in his Visions in Meditation series" (235).
 
 ## Stiegler, Bernard. _Technics and Time, 3; Cinematic Time and the Question of Malaise_. Stanford: Stanford University Press, 2011. Print.
 
