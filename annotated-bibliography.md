@@ -12,6 +12,8 @@ Here, Amgaben reworks Foucault's concept of the _apparatus_, extending it to "li
 
 ## Bal, Mieke. _Travelling Concepts in the Humanities: A Rough Guide_. Toronto: University of Toronto Press, 2002. Print.
 
+A key methodological text. Bal's method of _framing_ echoes my own idea of "lensing." In particular, Bal emphasizes framing as a active process that is bi-directional between framer and framed; framing produces "an event... is primarily an activity... performed by an agent who is responsible, accountable, for his or her acts. Furthermore... the agent of framing is framed in turn" (135). Framing is durational, ongoing: "where there is duration, change inevitably occurs: differences emerge over time" (136). Most importantly, framing, like lensing, participates in the constitution of the work as well as its perception and reception: "The frame is the link between work and world, not the cut between them" (141).
+
 ## Basman, Antranig. "If What We Made Were Real." Fluid Project Wiki. 2 May 2014. Web. 11 August 2014.
 
 A polemic against the present methods of software construction, arguing that today we have only two-dimensional, artificial software constructions (as if they were movie sets); architectures that serve largely to consolidate power in the hands of software developers instead of user.
@@ -20,17 +22,37 @@ A polemic against the present methods of software construction, arguing that tod
 
 An in-depth description of the underlying software architecture that supports Flocking and Aconite.
 
+## Bennett, Jane. "Systems and Things." Grusin, Richard, ed. _The Nonhuman Turn_. Minneapolis: University of Minnesota Press, 2015. Print.
+
+Bennett mediates between object-oriented ontology's emphasis on materialism and the essential "differential" or distance between objects, and Deleuze and Guattari's more systems-oriented concept of "assemblages" or networks of intensities, affects, and interactions. Bennett proposes a model where even otherwise apparently intangible, epheral assemblages such as poetry (or in my case, computer programs) can have a body and agency.
+
+## Bennet, Jane. _Vibrant Matter: A Political Ecology of Things._
+
+A model of human/object relations that emphasizes attempting to duck underneath human subjectivity (speculatively and imaginatively in an openly "naive" manner) in order to see the effects, energies, and bodies of objects.
+
+Bennett's work provides significant support for my argument that media assemblages (i.e. my video art) and software have a materiality and embodiment that has real effects on each other and our own bodies.
+
 ## Brakhage, Stan. _Essential Brakhage: Selected Writings on Filmmaking_. New York: McPherson and Company, 2001.
 
 An oblique description of the vitality of vision, of multiple modes and strategies of imaginative visual perception. A clear polemic against the regime of technique and self-erasure of hollywood filmmaking, and a lovely description of camera-shake as the beating heart of the "filmmaker as lover."
+
+## Bryant, Levi R. _The Democracy of Objects._ Ann Arbor: Open Humanities Press, 2011.
+
+Bryant provides an overview of second-order systems theory, arguing for its relationship to object-oriented ontology, Bergson, and Lacanian analysis. Bryant's version of systems theory provides a philosophical underpinning for my methodological arguments regarding the ultimate "withdrawal" (perturbation and irritation, rather than communication) amongst disciplines as systems. Further, second-order systems theory provides an alternative, less "informational" model (and arguably energetic) for technical and human systems and their interactions.
 
 ## Cecchetto, David. _Humanesis: Sound and Technological Posthumanism_. Minneapolis: University of Minnesota Press, 2013. Print.
 
 ## Chambers, Jack "Perceptual Realism." _Films of Jack Chambers_. Kathryn Elder, ed. Toronto: Toronto International Film Festival, 2002. 33-44. Print.
 
+Art as system. Chambers' model of _Perceptual Realism_ understands art as a perceptual system that modulates and transforms our vision; "a transmitter unit... It is an object to see with, rather than a thing just to see" (Chambers 41-2).
+
 ## Clark, C., Tindale, A. (2014). Flocking: A Framework for Declarative Music-Making on the Web. In Proceedings of the International Computer Music Conference, International Computer Music Association (pp. 1550-1557).
 
-## Clarke, Bruce and Mark B.N. Hansen. _Emergence and Embodiment: New Essays on Second-Order Systems Theory_. Durham: Duke University Press, 2009. Print.
+A paper describing Flocking from the technical and software architectural perspective, offering readers of my thesis a place to go to understand the background and general concerns of Flocking and how it relates to other computer music systems.
+
+## Debord, Guy. _The Theory of the Dérive._
+
+A source of methodological drifting and creative displacement; "the dérive includes both this letting-go and its necessary contradiction: the domination of psychogeographical variations by the knowledge and calculation of their possibilities."
 
 ## Deleuze, Gilles. _Bergsonism_. Trans. Hugh Tomlinson and Barbara Habberjam. New York: Zone, 1991.
 
@@ -40,9 +62,9 @@ An oblique description of the vitality of vision, of multiple modes and strategi
 
 ## Galloway, Alexander. _The Interface Effect_. Cambridge: Polity Press, 2012. Print.
 
-## Bennett, Jane. "Systems and Things." Grusin, Richard, ed. _The Nonhuman Turn_. Minneapolis: University of Minnesota Press, 2015. Print.
+## Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002.
 
-Bennett mediates between object-oriented ontology's emphasis on materialism and the essential "differential" or distance between objects, and Deleuze and Guattari's more systems-oriented concept of "assemblages" or networks of intensities, affects, and interactions. Bennett proposes a model where even otherwise apparently intangible, empheral assemblages such as poetry (or in my case, computer programs) can have a body and agency.
+Genosko's overview of Felix Guattari's methodological heterogeneity, _transverality_, which for me serves and a critique and alternative (or at least ambivalence towards) to interdisciplinarity. "For Guattari and Vilar, 'the organization of human culture by disciplines belongs to the past, although to a certain degree it is a necessary point of departure in the advance towards domains of knowledge that involve new practices... disciplines remain closeted and largely ignorant of one another. While there has been much fanfare about interdisciplinarity, there has been little effort expended at the level of method to realize its implications... the task becomes, then, the elaboration of a genuine metamethodology that would upset existing power/knowledge formations" (38). Guattari's metamethodology encourages questioning, humilty, and openness of assemblages to dialogue and forms of exchange. Notably, he doesn't reject specialization outright, but instead suggests to "proceed irreversibly by fluctuation and bifurcation toward transdisciplinarity" (39).
 
 ## Hansen, Mark. _Bodies in Code_. New York: Routledge, 2006.
 
@@ -50,9 +72,17 @@ Bennett mediates between object-oriented ontology's emphasis on materialism and 
 
 Felix Hess is a sound and installation artist who uses simple technologies to create unstable, interacting "agents" that couple natural processes, technological networks, and human perceptual sensitivity to the environment. _Light as Air_ includes essay by Hess and others that emphasize the role of sensitivity and attention within his work, two themes that are crucial to my own artistic practice.
 
+## Hiebert, Ted. "Delirious Screens: Flesh Shadows and Cool Technology." _CTheory_. Web. http://www.ctheory.net/articles.aspx?id=592
+
+A paradoxical and strange reflection on the transformational effects of the screen, drawing on Lacan and critiquing McLuhan's idea of technological extension in favour of "perceptual self-placement" within "the body/image of paradox of technology." Not unlike Bal's bidirectionality of framing, in the human/screen apparatus, "perception transforms its object, and in so doing, transforms itself."
+
 ## Idhe, Don. "Stretching the In-between: Embodiment and Beyond." Foundations of Science (2011) 16: 109-118.
 
+A phenomenological account of technological extension into the realm of the otherwise-imperceptible via informational translation. I use this article a point of critique against informatics and in favour of energetic transformation in my own artwork.
+
 ## Illich, Ivan. _Tools for Conviviality_. New York: Harper and Row, 1973.
+
+An approach to technology (i.e. to design) that explicitly takes into account the role of an individual and their community, advocating for intentional limiting of power within technologies to support communities.
 
 ## Kittler, Friedrich. "There is No Software." _CTheory_ (1995) a032. Arthur and Marilouise Kroker, eds. Web. http://www.ctheory.net/articles.aspx?id=74
 
@@ -60,17 +90,31 @@ Kittler argues here that computation must be understood as essentially embodied,
 
 While I don't disagree with Kittler, this appeal to computation's materialization as hardware obscures the material bodies that software also forms. While these may be invisible and somewhat intangible bodies (like sound itself), software nonetheless also possess a material that is of the order of the real, and which has very tangible effects on our everyday embodiment.
 
-## Latour, Bruno. _Reassembling the Social: An Introduction to Actor-Network-Theory_. Oxford: Oxford University Press, 2005. Print.
-
 ## Latour, Bruno. "How to Be Iconophilic in Art, Science, and Religion?" _Picturing Science Producing Art_. Carrie Jones and Peter Galison, eds. London: Routledge, 1998. 418-440. Print.
 
 ## Lovink, Geert and Pit Schultz. "There is no information, only transformation: An Interview with Bruno Latour." Web. http://www.nettime.org/Lists-Archives/nettime- l-9709/msg00006.html
 
 These two articles introduce Latour's idea of _immutable mobiles_, of the "alignments" and correspondences that remain consistent across the continuous series of transformations that is our experience of "the world." Here, the idea of information as a stable medium for representation is critiqued, replacing it with a model of transformation analogous both to the method of "lensing" that is crucial to my own argument about the function of artworks, as well as to the technologies that constitute my artwork.
 
-## Priest, eldritch. _Boring Formless Nonsense: Experimental Music and the Aesthetics of Failure_. New York: Bloomsbury, 2013. Print.
+## Lazzarato, Maurizio. "Machines to Crystallize Time." _Theory, Culture & Society_. 24.6 (2007): 93-122. Print.
 
-## Rokeby, David. "The Construction of Experience: Interface as Content." _Digital Illusion: Entertaining the Future with High Technology_. Dodsworth, Clark Jr., ed. New York: ACM Press, 1998. Web. http://www.davidrokeby.com/experience.html
+Lazzarato reads Bergson (via Deleuze), and argues that video technologies themselves, as modulators, double the Bergsonian perceptual system and serve to "imitate perception, memory, and intellectual work" (110). In Lazzaratto's conception of video, it is not simply a medium for imprinting an image&em;a representation of reality&em;or of storage but, again, are energetic transformers: "The video camera modulates the flows of electomagnetic waves. Video images are contractions and dialations, 'vibrations and tremors' of light, rather than... reproductions of reality" (111).
+
+## Lazzarato, Maurizio. "Video, Flows, and Real Time." _Art and the Moving Image: A Critical Reader_. Ed. Tanya Leighton. 283-291. London: Tate Publishing, 2008.
+
+This is an earlier reading of Lazzarato's thoughts from the article above, but here he echoes Flusser's idea of photographs as a _significant surface_, but brings flow (motion) into play: "Video technology is a mechanical arrangement that establishes a relationship between a-significant flows (waves) and significant flows (the images). It is the first technical means of producing images that reflects the 'general decoding of the flows'" (283). It is a medium that is (quoting Angela Melitopoulos) "directly bound to light because video transforms and codes light through a technology" (284).
+
+As in Munster (who cites Lazzarato extensively), we have signals, modulation and transformation (serving a dual theoretical/creative role in my own writing): "all images produced by electronic and digital technologies are transformations and combinations (composites) of intensities, forces, fields, taking place in the flow&em;the electromagnetic flow in the case of video... the algorithmic flow in the case of the computer" (8)
+
+## Mitchell, W.J.T. "There Are No Visual Media"
+
+An argument for the strange interconnection amongst media (visual, sound, etc.) and the relationship to tactility, including a useful explanation of McLuhan's concept of _sense ratios_ and his own extension of it with _semiotic ratios_. "All the so-called visual media turn out, on closer inspection, to involve the other senses (especially touch and hearing). All media are, from the standpoint of sensory modality, 'mixed media'" (1).
+
+## Munster, Anna. "Transmateriality: Towards an Energetics of Signal in Contemporary Mediatic Assemblages." _Cultural Studies Review_ 20.1 (2014). Web.
+
+Munster describes video as an energetic system; using Deleuze's concept of _signaletic material_, she argues for technical media (in her case, videos created using drones) as "spatio-temporal relays between the human and the nonhuman technical objects" (2) and explores the operation of modulation and transformation of video's energies.
+
+## Priest, eldritch. _Boring Formless Nonsense: Experimental Music and the Aesthetics of Failure_. New York: Bloomsbury, 2013. Print.
 
 ## Schweitzer, Howard. _On Waiting_. New York: Routledge, 2008. Print.
 
@@ -89,8 +133,6 @@ Wark positions art and design rooted in the same activity--the creation of new f
 "Capitalism split production into two separate domains: the production of form and the production of content... Art is a subset of design. But it is a marginalized kind of design. The strategy then is firstly to assert the role of art as design, and secondly to overcome the separation of form and content in production."
 
 Wark also, in this article, attacks the notion of "immaterial labour," which supports the idea that even ideas (and computer programs) have a body.
-
-## Wegner, Peter. "Why Interaction is More Powerful Than Algorithms." _Communications of the ACM_ 40.5 (1997): 80-91.
 
 ## Wing, Jeannette M. "Computational thinking." _Communications of the ACM_ 49.3 (2006): 33-35.
 
