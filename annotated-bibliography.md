@@ -42,6 +42,12 @@ Bryant provides an overview of second-order systems theory, arguing for its rela
 
 ## Cecchetto, David. _Humanesis: Sound and Technological Posthumanism_. Minneapolis: University of Minnesota Press, 2013. Print.
 
+First, Cecchetto's theorizing about sound provides a model for understanding objects as have different kinds of materiality and relationality. I will use sound as a theoretical device when reading predominantly visual (my video art) and technological (software) works. Sound (as I will argue for software and digital video) is nonetheless material despite not being something that can be touched or placed precisely in space. "First, sound is differential... sound as such calls us to think of it as a particular object that has no substance, as a kind of ideal object that nonetheless has real material effects... sound resists being placed at all and is in this sense as much relational as it is differential... sound is emphatically not where it sounds like it is. Indeed, the added twist is that it also isn't where it appears to be... because it only comes to be at all through the differential act of hearing... Finally, sound is also multiplicitous... hear is literally to experience as constant something that is nothing but difference" (2-3).
+
+Secondly, Cecchetto provides a challenge to the model of technological extension: "technologies today can no longer be adequately thought through the lens of 'extension' but must instead be understood as profoundly implicated in our being. That is, technologies are not tools that we use, nor objects in relation to which we are servomechanisms, but are rather pathways through a relational ontology (which may be another way of saying that technologies are also all those things that they are not)" (5)
+
+Thirdly, Cecchetto provides an elaboration of and counterpoint to Hayles and Hansen and their (very different) theories of technological embodiment and discourse: "via an analysis of Hayles, the values that human embodiment expresses are enhanced in human-technology relations, where all aspects of embodied human reality are indissociable from questions of technology but are not overdetermined by them" and "Rather than attempting to access a prediscursive embodied Real, these pieces instead insist on the profound co-implication of discourse and embodiment by accepting it and even celebrating it. As a result, reversibility abounds so that we are continually reminded that language itself is captured within a paradoxical presence-absence that is, in a sense, embodiment. Thus it isn't that Hayles, for example, is wrong to insist on the impossibility of separating information from its embodiment but rather that this emphasis constructs--in the rhetoric of human values--the very separation that it opposes by acting as though disembodiment is a danger (and is thus possible). In constrast, this book insists that the question of embodiment is beyond the pale, not because it is outside of language (as Hansen argues), but rather because it is a paradoxical becoming of linguistic ambivalence" (164).
+
 ## Chambers, Jack "Perceptual Realism." _Films of Jack Chambers_. Kathryn Elder, ed. Toronto: Toronto International Film Festival, 2002. 33-44. Print.
 
 Art as system. Chambers' model of _Perceptual Realism_ understands art as a perceptual system that modulates and transforms our vision; "a transmitter unit... It is an object to see with, rather than a thing just to see" (Chambers 41-2).
@@ -54,13 +60,26 @@ A paper describing Flocking from the technical and software architectural perspe
 
 A source of methodological drifting and creative displacement; "the dérive includes both this letting-go and its necessary contradiction: the domination of psychogeographical variations by the knowledge and calculation of their possibilities."
 
-## Deleuze, Gilles. _Bergsonism_. Trans. Hugh Tomlinson and Barbara Habberjam. New York: Zone, 1991.
+## Elder, R. Bruce. "The Cinema We Need" and "A Vindication." _Documents in Canadian
+Film_. Ed. Douglas Fetherling. Peterborough: Broadview Press, 1988.
+
+A polemic arguing for the complicity of narrative and technocracy, against representation, and for a "cinema of the moment," which struggles to reveal "how events come to be in experience, that is, the dynamic by which events are brought into presentness in experience" (264). A cinema "not just... in time, but one of time" (270).
 
 ## Flusser, Villem. _Towards a Philosophy of Photography_. Trans. Anthony Mathews. London: Reaktion Books, 2000.
 
 ## Fuller, Matthew. _Behind the Blip_. Brooklyn: Autonomedia, 2003. Print.
 
+Echoing Cecchetto's concept of _humaneisis_, Fuller argues that the field of computation (especially Human-Computer Interaction) "has an unusually narrow understanding of its scope. Much of the rhetoric is about empowerment and the sovereignty of the user, whose 'personality' shapes and dialogues with the machine. It should be asked what model of a persona, what 'human' is engineered by" its discourse (12).
+
+He argues for _social software_, which is "primarily it is software built by and for those of us locked out of the narrowly engineered subjectivity of mainstream software. It is software which asks itself what kinds of currents, what kinds of machine, numerical, social, and other dynamics, it feeds in and out of, and what others can be brought into being. The second strand is related to this. It is software that is directly born, changed, and developed as the result of an ongoing sociability between users and programers in which demands are made on the practices of coding that exceed their easy fit into standardized social relations" (24).
+
+Fuller also identifies the power structures immanent in software's construction, "the inevitable disequilibrium of relations between the user and the programmer. This is a political fact which cannot be avoided. Despite the fact that free software makes public the labour which is repressed from visibility under proprietary software, it is still the case that whoever is 'closest to the machine' owns the space of possibilities which the relations have been established to explore" (26).
+
 ## Galloway, Alexander. _The Interface Effect_. Cambridge: Polity Press, 2012. Print.
+
+Galloway's central argument is that computation is primarily _ideological_ (rather than ontological or metaphysical) in nature. I will perhaps argue that computation is indeed ideological, but its ideological positions are predominantly expressed via ontology and metaphysics.
+
+Galloway also summarizes Lev Manovich's argument that cinema represents the first medium of computation.
 
 ## Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002.
 
@@ -68,9 +87,6 @@ Genosko's overview of Felix Guattari's methodological heterogeneity, _transveral
 
 ## Hansen, Mark. _Bodies in Code_. New York: Routledge, 2006.
 
-## Hess, Felix. _Light as Air_. Heidelberg: Velag Kehrer, 2001. Print.
-
-Felix Hess is a sound and installation artist who uses simple technologies to create unstable, interacting "agents" that couple natural processes, technological networks, and human perceptual sensitivity to the environment. _Light as Air_ includes essay by Hess and others that emphasize the role of sensitivity and attention within his work, two themes that are crucial to my own artistic practice.
 
 ## Hiebert, Ted. "Delirious Screens: Flesh Shadows and Cool Technology." _CTheory_. Web. http://www.ctheory.net/articles.aspx?id=592
 
@@ -92,8 +108,6 @@ While I don't disagree with Kittler, this appeal to computation's materializatio
 
 ## Latour, Bruno. "How to Be Iconophilic in Art, Science, and Religion?" _Picturing Science Producing Art_. Carrie Jones and Peter Galison, eds. London: Routledge, 1998. 418-440. Print.
 
-## Lovink, Geert and Pit Schultz. "There is no information, only transformation: An Interview with Bruno Latour." Web. http://www.nettime.org/Lists-Archives/nettime- l-9709/msg00006.html
-
 These two articles introduce Latour's idea of _immutable mobiles_, of the "alignments" and correspondences that remain consistent across the continuous series of transformations that is our experience of "the world." Here, the idea of information as a stable medium for representation is critiqued, replacing it with a model of transformation analogous both to the method of "lensing" that is crucial to my own argument about the function of artworks, as well as to the technologies that constitute my artwork.
 
 ## Lazzarato, Maurizio. "Machines to Crystallize Time." _Theory, Culture & Society_. 24.6 (2007): 93-122. Print.
@@ -106,6 +120,10 @@ This is an earlier reading of Lazzarato's thoughts from the article above, but h
 
 As in Munster (who cites Lazzarato extensively), we have signals, modulation and transformation (serving a dual theoretical/creative role in my own writing): "all images produced by electronic and digital technologies are transformations and combinations (composites) of intensities, forces, fields, taking place in the flow&em;the electromagnetic flow in the case of video... the algorithmic flow in the case of the computer" (8)
 
+## Lovink, Geert and Pit Schultz. "There is no information, only transformation: An Interview with Bruno Latour." Web. http://www.nettime.org/Lists-Archives/nettime- l-9709/msg00006.html
+
+See Latour, "How to be Iconophilic" above.
+
 ## Mitchell, W.J.T. "There Are No Visual Media"
 
 An argument for the strange interconnection amongst media (visual, sound, etc.) and the relationship to tactility, including a useful explanation of McLuhan's concept of _sense ratios_ and his own extension of it with _semiotic ratios_. "All the so-called visual media turn out, on closer inspection, to involve the other senses (especially touch and hearing). All media are, from the standpoint of sensory modality, 'mixed media'" (1).
@@ -113,6 +131,10 @@ An argument for the strange interconnection amongst media (visual, sound, etc.) 
 ## Munster, Anna. "Transmateriality: Towards an Energetics of Signal in Contemporary Mediatic Assemblages." _Cultural Studies Review_ 20.1 (2014). Web.
 
 Munster describes video as an energetic system; using Deleuze's concept of _signaletic material_, she argues for technical media (in her case, videos created using drones) as "spatio-temporal relays between the human and the nonhuman technical objects" (2) and explores the operation of modulation and transformation of video's energies.
+
+## Negarestani, Reza. "Contingency and Complicity." _The Medium of Contingency_ (2011): 11-16. Web.
+
+A strange and wonderful argument for the radical closure of a work of art (in contrast to "openness to materials) in order to open it more fully to the weird and "twisted" (13) nature of material complicity: "Complicity exhibits this necessary shift from the inhibitive role of commonalities to the role of closure as a focused engagement with contingency, its intrusions, twists and suspensions. Whilst openness domesticates the thought of contingency through affordable states of interaction, commonalities and other forms of soft dogma, closure, on the other hand, turns itself into a 'good meal' or a 'genuine prey' for the real expression of contingency and its unrestricted play: the more closed a work, the more radically it is subjected to the interventions of its contingent materials, the wider it is broadened and butchered opened to the outside. Therefore, we can say that closure realises openness in its radical sense: not as openness toward the possibility of contingencies from the outside, but as a 'being opened' by the contingent materials that form the work" (13).
 
 ## Priest, eldritch. _Boring Formless Nonsense: Experimental Music and the Aesthetics of Failure_. New York: Bloomsbury, 2013. Print.
 
