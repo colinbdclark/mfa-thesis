@@ -20,6 +20,10 @@ Antin argues for video's essential connection with the commerce of television. D
 
 A key methodological text. Bal's method of _framing_ echoes my own idea of "lensing." In particular, Bal emphasizes framing as a active process that is bi-directional between framer and framed; framing produces "an event... is primarily an activity... performed by an agent who is responsible, accountable, for his or her acts. Furthermore... the agent of framing is framed in turn" (135). Framing is durational, ongoing: "where there is duration, change inevitably occurs: differences emerge over time" (136). Most importantly, framing, like lensing, participates in the constitution of the work as well as its perception and reception: "The frame is the link between work and world, not the cut between them" (141).
 
+## Barry, Andrew and Georgina Born. "Introduction." _Interdisciplinarity: Reconfigurations of the social and natural sciences_. Eds. Andrew Barry and Georgina Born. London: Routledge, 2013.
+
+A thoughtful and critical overview of the definitions of and relationships amongst multidisciplinarity, interdisciplinarity, and transdisciplinarity.
+
 ## Basman, Antranig. "If What We Made Were Real." Fluid Project Wiki. 2 May 2014. Web. 11 August 2014.
 
 A polemic against the present methods of software construction, arguing that today we have only two-dimensional, artificial software constructions (as if they were movie sets); architectures that serve largely to consolidate power in the hands of software developers instead of user.
