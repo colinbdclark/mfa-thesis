@@ -16,7 +16,8 @@ First, they identify the most common mode (at least discusively) as "an integrat
 * the problem of synthesis within my work and the alternatives to synthesis
 ** creation of new context-specific methods and "microdisciplines"
 ** Guattari's critique of "interdisciplinary tourism"
-** and ultimately the proposal of "disciplinary adjacency" connected to Wark's antipodality, Cecchetto's vagrancy, Debord's dérive, and ultimately Guattari's transversal creation of new assemblages
+* the proposal of "disciplinary adjacency" connected to Wark's antipodality, Cecchetto's vagrancy, Debord's dérive, and ultimately Guattari's transversal creation of new assemblages
+** one of the particular values of adjacency is in resolving the problem of "practice-based research," in that it allows art and research to remain distinct (as opposed to the inevitable subordination-service mode that it otherwise is cast epistemologically) and yet to form strange kinds of assemblages or lenses on each other
 
 
 ## Methods in Practice
