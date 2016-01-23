@@ -6,9 +6,14 @@
   * Nature of my practice, connections/refactractions/transformations of my technical and aesthetic practice
 3. Methods
   * Critique of interdisciplinarity, practice-based research
+    * Desire to avoid "disciplinary tourism"
+    * An attempt to accept my practices as "somewhat separate"
+    * Recognize that, without unifying the disciplines fully (risking homogenization) that practicing multiple disciplines has _effects_ (refractions, transformations, events) on each other
+    * to propose a set of localized, project-specific tactics to generate "microdisciplines/micromethods" for a practice _amongst and in between_ disciplines
   * Proposal of _disciplinary adjacency_ via second-order systems theory
   * Key methods:
     * Lensing
+      * Relationship to Bal's _framing_
     * Open source collaboration
     * Reflexive, iterative studio/design practice
 4. Lensing
@@ -17,7 +22,6 @@
     * Aesthetic/perceptual: Brakhage case study below
     * Methodological: relationship to disciplinary adjacency, understanding disciplinary practice as a form of _mutation_ or transformation (bending, skewing, defocusing, refocusing) via the method of lensing
   * Brakhage's _The Cat of the Worm's Green Realm_, his perceptual exercises
-  * Relationship to Bal's _framing_
   * Second-order systems theory
     * Lensing as "perturbation and irritation" of distinct, withdrawn systems
   * Mark Hansen and "all reality is mixed reality"
