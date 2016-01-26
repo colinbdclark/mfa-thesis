@@ -26,15 +26,17 @@ I mentioned earlier that I felt I lacked a disciplinary centre, a home. Instead,
 
 Both Wark's antipodality and Martin Arnold's rat-drifting draw from the Situationists and their method of _the dérive_, "a technique of rapid passage through varied ambiances... [involving] playful-constructive behavior and awareness of psychogeographical effects" (Debord). I suggest, then, that like cities, disciplines "have psychogeographical contours, with constant currents, fixed points and vortexes that strongly discourage entry into or exit from certain zones" and which must be explored and experienced with both "this letting-go and its necessary contradiction... the dominance of psychogeographical variations by knowledge and calculation" (Debord).
 
-As a method, what is key for me to the dérive is its _movement_, both with and against the gravity of a place and an activity. Rather than spatializing my practice and placing it at a fixed position amongst disciplines in a kind of methodological Venn diagram, I am aiming for a _theory in motion_ that allows assemblages of localized, tactical, context-specific affinities and oppositions to emerge between disciplinary practices. This metamethodology I am proposing, disciplinary adjacency, serves as a decentring means to deflect the temptation to synthesize or subjugate my activities of one discipline to another.
+Methodologically, what is key for me to the dérive is its _movement_, both with and against the gravity of place and action. Rather than spatializing my practice and placing it at a fixed position amongst disciplines in a kind of methodological Venn diagram, I am aiming for a _theory in motion_ that allows assemblages of localized, tactical, context-specific affinities and oppositions to emerge between disciplinary practices. This metamethod I am proposing, disciplinary adjacency, serves as a decentring and a deflection of the temptation to synthesize or subjugate my activities in one discipline to those of another.
 
 #### Practice-Based Research and Adjacency
 
-The subjugation mode is clearly at play in a somewhat different manner with the (academically) increasingly-necessary construction of "practice-based research," in which this project is inevitably participates. ...
+The subjugation mode is clearly at play in a somewhat different way with the increasingly-necessary construction of "practice-based research" in arts scholarship, in which this project ambivalently participates. According to proponents such as Graeme Sullivan, practice-based research asserts that a studio art practice can function as a form of scholarly research, and that "the studio experience is a form of intellectual and imaginative inquiry and is a site where research can be undertaken that is suf­ficiently robust to yield knowledge and understanding that is individually situated and socially and culturally relevant" (90). I do not entirely disagree, though there are fairly profound epistemological _and_ artistic problems to be tangled with. How is research knowledge "yielded" by studio practice, and is there perhaps a more complex network of influence and modulation at play than Sullivan lets on?
 
-* one of the particular values of adjacency is in resolving the problem of "practice-based research," in that it allows art and research to remain distinct (as opposed to the inevitable subordination-service mode that it otherwise is cast epistemologically) and yet to form strange kinds of assemblages or lenses on each other
+In my own practice, it is easier to argue for my software design activities as research, in that they raise and contend with specific issues of knowledge and practice in the design field, addressing questions about how to make creative technologies that are more social, more inclusive, and more actively "material" (i.e. simultaneously mutable and stable, a topic I will cover further the section on software bodies) than today's technologies are capable of. Yet, in a research culture that is increasingly technophilic and focused on the performance of originality...
 
-with lensing as a method, creative works can serve as a generative catalyst (cecchetto difference between cause and catalysis) for exploring digital media and computation differently--as objects and bodies in their own right, perhaps, instead of as communication channels or technological extensions of human bodies.
+The UK composer John Croft, argues expressly that art and music have no role or function as research, invoking Heidegger's view that while art may possess "cognitive content," it resists "conceptualization--it _presents_ rather than _represents_, _discloses_ without describing" (8). The problem with a critique like this, of course, is that it limits art's potentiality by boxing it into a generalized, universal definition, rather than seeing it a variable and living field of context-specific contingencies and forces. The problem, instead, is the hierarchical relation between art and research as it is conventionally structured. What happens to art when it becomes research? The problem, of course, is t
+
+One of the values of disciplinary adjacency, in my mind, is as a way to resolve the subjugation of artistic practice by conventional research practices by highlighting, again, their operational closure; art and research remain (potentially) distinct, yet still able to act as "lenses" that can transform and catalyze (but not necessarily cause) effects in each other. (FOOTNOTE: This distinction between causation and catalysis in the practice/research relation is elaborated more significantly in a blog post by David Cecchetto notes in a blog post in which he says: "the distinction between catalysis and causation is simply meant to suggest that... [creative works] activate a system (my thinking) that operates according to a logic that is distinct from their own" (Thoughts on Creative Practice).) < specific example here in my own practice >.
 
 #### Agonism and Antagonism
 
@@ -44,12 +46,22 @@ It is important to be clear that working in multiple disciplines is not always s
 
 Developing, as I do, bespoke video compositing and sound synthesis tools from scratch provides me with the irreplaceable ability to focus on particular medial qualities and constraints. Yet this is, as a practice, also immensely time-consuming and incalculably abstract. There is undoubtedly, in contrast to the often-invoked mainstream rhetoric of technological promise and potential, a negative relation between technical and creative methods. Developing a new algorithmic image processing "lens" often eclipses my ability to _see_ things "out in the world" with my camera. A push and pull inheres in my software art practice, where I often spend weeks working on a new piece of software, driven only by a creative hunch or curiosity, without any kind of perceptible feedback or result. These techno-aesthetic gambits, as often as not, fail to produce a compensating advantage; software's potential to serve as a creative catalyst, which is occasionally revelatory, can often seem to simply dissolve in programming's continual deferral of results in favour of the endless processing of abstractions. At these times, programming often feels like a creative obstruction, an unresolvable and prehistoric fumbling towards a tool's basic creative capacity that no artist in a traditional medium, painting or the piano, would be willing to accept. Programming produces a strange kind of dinosaur, purportedly the from the future, but already just fossils.
 
-It is in these moments of outright antagonism that something else emerges. Agonism is another possibility of adjacent practice, a positive conflict that forces me to get away from the computer and out into the world with my camera, working in "real time" with quotidian "subject matter" to produce simple videos with few edits or technical conceits. Many of the videos in _Insignificant Surfaces_ are produced as a result of this failure of the programming/video dialectic to synthesize. These videos are the surplus that forms within a personal system of video art as a reaction to the network of irritations and perturbations from an adjacent system (creative programming) that comprise its environment. And so, if computation is a recurring theoretical concern throughout this work, its absence in practice is as notable as--and inseparable from--its presence.
-
+It is in these moments of outright antagonism that something else emerges. Agonism is another possibility of adjacent practice, a positive conflict that forces me to get away from the computer and out into the world with my camera, working in "real time" with quotidian "subject matter" to produce simple videos with few edits or technical conceits. Many of the videos in _Insignificant Surfaces_ are produced as a result of this failure of the programming/video dialectic to synthesize. These videos are the surplus of the relation, the "unmarked space" of a programming practice that perturbs and irritates the material system of my video art practice. And so, if computation is a recurring theoretical concern throughout this work, its absence in practice is as notable as--and inseparable from--its presence.
 
 ## Methods in Practice
 
+While I have so far attempted to argue for a general approach or metamethod for interdisciplinary practice and research, it is worth elaborating on the specific research/creation methods that have driven my project.
+
+### Lensing
+
+First, I would like to propose...
+
+Lensing, as a practice-based method, embodies Gillian Rose's argument that arts-based research functions not as an empircal, modernist epistemology where "to know is to see," but in an interpretive mode where, "for studio-researchers, to _know is to see ... differently_" (Quoted in Sullivan 85).
+
+### Open Source Collaboration
+
 * Lensing as a theoretical/technical/creative hybrid method
+  * from a theoretical perspective, lensing is a way of analysing the _effects_ of an object/body/context on other objects/bodies/contexts
 * Open source and collaboration
 * Is there also a method related to the iterative and interlocking unfolding of technical innovations and artistic potentials?
 
@@ -64,6 +76,12 @@ Even in the more benign variation of a discipline acting in _service_ of another
 
 ### Quotes
 
+"the claim is that artistic research has the potential to change the way we see and think. The studio experience is a form of intellectual and imaginative inquiry and is a site where research can be undertaken that is suf­ficiently robust to yield knowledge and understanding that is individually situated and socially and culturally relevant" (90)
+
+"Rather than seeing inquiry as a linear procedure or an enclosing process, research can also be interactive and reflexive whereby imaginative insight is constructed from a creative and critical practice" (Sullivan 82)
+
+"the modernist, empirical aphorism, to know is to see, was flipped as a consequence of postmodernist thinking because the way we framed reality according to particular interpretive regimes meant that to know is to see, and more crucially for studio-researchers, to know is to see ... differently" (Sullivan 85)
+
 
 a call to "drop their relations... and all their usual motives for movement and action, and let themselves be drawn by the attractions of the terrain and the encounters they find there. Chance is a less important factor in this activity than one might think: from a dérive point of view cities have psychogeographical contours, with constant currents, fixed points and vortexes that strongly discourage entry into or exit from certain zones."
 
@@ -73,6 +91,8 @@ From Keith: "A situationist-type derive (in an analogy I’m sure Wark would him
 Guattari: "transversality belongs to the processual subject's engendering of an existential territory and self-transportation beyond it. The key concepts involved are: mobility (traversing domains, levels, dimensions, the ability to carry and be carried beyond); creativity (productivity, adventurousness, aspiration, laying down lines of flight); self-engendering (autoproduction, self-positing subjectivity), territories from which one can really take off into new universes of reference" (Genosko 68).
 
 ### Old Notes
+
+ The question, either way, is where the of scholar value is placed is dominant in the practice-based research model, and which one is subjugated? And when framed as research, what happens to art (and to research)?
 
 
 Introducing a music synthesizer instrument into the video compositing signal, for example, produces not just a form of "visual music," but a distinctly media-appropriate effect.
