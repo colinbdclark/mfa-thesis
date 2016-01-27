@@ -34,7 +34,7 @@ The subjugation mode is clearly at play also in the increasingly-necessary const
 
 The UK composer John Croft, argues expressly that art and music have no role or function as research, invoking Heidegger's position that, though art undoubtedly possesses "cognitive content," this material resists conceptualization; art "_presents_ rather than _represents_, _discloses_ without describing" (8). The problem with a critique like this, of course, is that it limits art's potentiality by boxing it into a generalized, universal definition, rather than seeing it a variable and living field of context-specific contingencies and forces.
 
-One of the roles for disciplinary adjacency, in my mind, is to help prevent the subjugation of artistic practice by conventional research practices by highlighting, again, their operational closure. Art and research remain (potentially) distinct, yet still able to act as "lenses" that can transform and catalyze (but not necessarily cause) effects in each other<sup>3</sup> (Cecchetto, "Thoughts on Creative Practice and Research"). While any one of my videos are not, in themselves,  research artifacts, the iterative and reflexive practice of making art (of being out in the world with my camera, or in the studio editing or programming) has powerful indirect influences via "systemic perturbation", helping me to cut new theoretical paths. "Any information value the perturbation takes on is constituted strictly by the distinctions belonging to the organization of the autopoietic machine itself" (Bryant 141). This means, I hope, that art and research can interact substantially with each other, without requiring them to be unified or linearly related, without having to share the same epistemic value system.
+One of the roles for disciplinary adjacency, in my mind, is to help prevent the subjugation of artistic practice by conventional research practices by highlighting, again, their operational closure. Art and research remain (potentially) distinct, yet still able to act as "lenses" that can transform and catalyze (but not necessarily cause) effects in each other<sup>3</sup> (Cecchetto, "Thoughts on Creative Practice and Research"). While any one of my videos are not, in themselves, research artifacts, the iterative and reflexive practice of making art (of being out in the world with my camera, or in the studio editing or programming) has powerful indirect influences via "systemic perturbation", helping me to cut new theoretical paths. "Any information value the perturbation takes on is constituted strictly by the distinctions belonging to the organization of the autopoietic machine itself" (Bryant 141). This means, I hope, that art and research can interact substantially with each other, without requiring them to be unified or linearly related, without having to share the same epistemic value system.
 
 Art's role in a practice/research assemblage for me, then, is to modulate theorization with the weird, serendipitous, and distinctly material resonances of creative action. For example, in the process of exposing the "inner vision" of a computational algorithm as light and movement, such as in _In Passing_, my videos enabled me to theorize computation as a material and embodied force--as more than simply a representation of the world, but also as a body that affects other bodies _in_ the world.
 
@@ -60,10 +60,23 @@ Lensing, as a practice-based method, embodies Gillian Rose's argument that arts-
 
 ### Open Source Collaboration
 
+* One of the key reasons for producing my artworks (as opposed to just tools that are directly intended to be used and reused) using open source collaborative methods is to turn them into _vectors_--more than just artworks but the basis for new abstractions and potentialities (this of course requires a very different approach not aesthetically, as one might imagine, but to the tools that support software creativity)
+
+"To hack is to express knowledge in any of its forms. Hacker knowledge implies, in its practice, a politics of free information, free learning, the gift of the result in a peer-to-peer network. Hacker knowledge also implies an ethics of knowledge open to the desires of the productive classes and free from subordination to commodity production. Hacker knowledge is knowledge that expresses the virtuality of nature, by transforming it, fully aware of the bounty and danger. When knowledge is freed from scarcity, the free production of knowledge becomes the knowledge of free producers. This may sound like utopia, but the accounts of actually existing temporary zones of hacker liberty are legion. Stallman: 'It was a bit like the garden of Eden. It hadn’t occurred to us not to cooperate'" (Wark, _Hacker Manifesto_ 42)
+
+"It will take struggle, for what the hacker calls into being in the world is a new world and a new being. Freeing the concept of the hacker from its particulars, understanding it abstractly, is the first step in this struggle" (Wark 44)
+
+"The vectoral world is being hacked to bits from the inside and the outside, calling for the combining of all efforts at abstracting desire from property and releasing the properties of abstracted desire" (Wark 52)
+
+"Hackers struggle to so-cialize  a  portion  of  the  information  stocks,  flows  and  vec-tors on which the hack depends" (97)
+
+
 * Lensing as a theoretical/technical/creative hybrid method
-  * from a theoretical perspective, lensing is a way of analysing the _effects_ of an object/body/context on other objects/bodies/contexts
+ * from a theoretical perspective, lensing is a way of analysing the _effects_ of an object/body/context on other objects/bodies/contexts
 * Open source and collaboration
 * Is there also a method related to the iterative and interlocking unfolding of technical innovations and artistic potentials?
+
+"Through the production of new forms of abstraction, the hacker class produces the possibility of the future. Of course not every new abstraction yields a productive application to the world. In practice, few innovations ever do so. Yet it can rarely be known in advance which abstractions will mesh with nature in a productive way." (Wark 47)
 
 ## Notes
 
@@ -71,9 +84,11 @@ Lensing, as a practice-based method, embodies Gillian Rose's argument that arts-
 
 2. I pick up this theme of transformation, using the optical metaphor of "lensing," as a research method later in this section, and as an aesthetic strategy in the next section, _Lensing and Perception_.
 
-3. Causation and catalysis are key concepts in the neocybernetic concept of "closure" as  simultaneously open _and_ closed: "Autopoietic systems are _both_ environmentally open ot energic exchange _and_ operationally closed to informatic transfer" (Clarke and Hanson 9). Put differently, systems are open to catalysis and energy exchange with their environment, but closed to direct causation. I will pick up this thread of information vs. energetics in a later section. David Cecchetto further elaborates a systems view of his own "practice-catalysed research" in his blog post, to which my thoughts here are greatly indebted. "The distinction between catalysis and causation is simply meant to suggest that... [creative works] activate a system (my thinking) that operates according to a logic that is distinct from their own" ("Thoughts on Creative Practice").
+3. Causation and catalysis are key concepts in the neocybernetic concept of "closure" as simultaneously open _and_ closed: "Autopoietic systems are _both_ environmentally open ot energic exchange _and_ operationally closed to informatic transfer" (Clarke and Hanson 9). Put differently, systems are open to catalysis and energy exchange with their environment, but closed to direct causation. I will pick up this thread of information vs. energetics in a later section. David Cecchetto further elaborates a systems view of his own "practice-catalysed research" in his blog post, to which my thoughts here are greatly indebted. "The distinction between catalysis and causation is simply meant to suggest that... [creative works] activate a system (my thinking) that operates according to a logic that is distinct from their own" ("Thoughts on Creative Practice").
 
-## In-Progress Area
+
+
+## In-Progress Area (Will be deleted)
 
 Even in the more benign variation of a discipline acting in _service_ of another, there is a risk to my project. There is a rich history of techician/artist collaborations, notably in the 1960s, such asExperiments in Art and Technology (EAT), the collaborations between engineers and composers at Bell Labs, (Higgins and Kahn 10) and < the importance of my technical work as being influenced by aesthetic concerns, even while simultaneously maintaining a direct dimension of service to other artists and composers (via an open source community) >
 
@@ -91,7 +106,7 @@ Even in the more benign variation of a discipline acting in _service_ of another
 
 a call to "drop their relations... and all their usual motives for movement and action, and let themselves be drawn by the attractions of the terrain and the encounters they find there. Chance is a less important factor in this activity than one might think: from a dérive point of view cities have psychogeographical contours, with constant currents, fixed points and vortexes that strongly discourage entry into or exit from certain zones."
 
-From Keith: "A situationist-type derive (in an analogy I’m sure Wark would himself recognize), undertaken for its own revelatory pleasures, and which can in retrospect produce works which point to -  but are not themselves - the derive, which as experience is not identical to any of its representations."
+From Keith: "A situationist-type derive (in an analogy I’m sure Wark would himself recognize), undertaken for its own revelatory pleasures, and which can in retrospect produce works which point to - but are not themselves - the derive, which as experience is not identical to any of its representations."
 
 
 Guattari: "transversality belongs to the processual subject's engendering of an existential territory and self-transportation beyond it. The key concepts involved are: mobility (traversing domains, levels, dimensions, the ability to carry and be carried beyond); creativity (productivity, adventurousness, aspiration, laying down lines of flight); self-engendering (autoproduction, self-positing subjectivity), territories from which one can really take off into new universes of reference" (Genosko 68).
