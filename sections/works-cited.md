@@ -2,7 +2,7 @@
 
 Arnold, Martin. "Rat-drifting." Program notes. _Something New, Something Old, Something Else_. City Hall, Sheffield. 6 May 2009. Web. http://eprints.hud.ac.uk/5697/2/Trunk_SNSOSE_prognotes.pdf
 
-Barry, Andrew, and Georgina Born. "Introduction." _Interdisciplinarity: Reconfigurations of the social and natural sciences_. Eds. Andrew Barry and Georgina Born. London: Routledge, 2013. Print.
+Barry, Andrew, and Georgina Born. "Introduction." _Interdisciplinarity: Reconfigurations of the Cocial and Natural Sciences_. Eds. Andrew Barry and Georgina Born. London: Routledge, 2013. Print.
 
 Bryant, Levi. _The Democracy of Objects._ Michigan: Open Humanities Press, 2011. Web. http://quod.lib.umich.edu/o/ohp/9750134.0001.001
 
@@ -12,7 +12,7 @@ Cecchetto, David. "Thoughts on Creative Practice and Research." _The Occulture_.
 
 Clark, Colin, Dana Ayotte, and Antranig Basman. "About Us, With Us: The Fluid Project's Inclusive Design Tools." _Proceedings of the 2016 Human Computer International Conference_. Springer International Publishing, in press. Print.
 
-Clarke, Bruce, and Mark B. N. Hansen, eds. _Emergence and Embodiment: New Essays on Second-Order Systems Theory_. Durham: Duke University Press, 2009. Print.
+Clarke, Bruce, and Mark B. N. Hansen. "Introduction." _Emergence and Embodiment: New Essays on Second-Order Systems Theory_. Durham: Duke University Press, 2009. Print.
 
 Croft, John. "Composition is Not Research." _Tempo_ 69.272 (2015): 6-11. Print.
 
