@@ -10,16 +10,16 @@
     * Brakhage, his vision exercises, _The Cat of the Worm's Green realm_, energy
     * My own perceptual exercises and technical and bodily lensing
     * Jane Bennet, Vibrant Matter: _Everything is Awake!_, _Indian Horse_
-3. Bodies
-    * Hansen, "all reality is mixed reality"
-    * Computational bodies and Flocking/Aconite as _material software_
-    * Cinematic bodies and Ernie Gehr's _Side/Walk/Shuttle_
-    * Durational bodies: _Tofino_, _Freezing_, _Drift and Cut_
-4. Information, Energy, and modulation
+3. Information, Energy, and modulation
     * How synthesis modulation works (Flocking)
     * Latour, "there is no information"
     * _In Passing_ as transformation
     * Environmental systems: Welsby's _Anemometer_ and _Greenwich Park_
+4. Bodies
+    * Hansen, "all reality is mixed reality"
+    * Computational bodies and Flocking/Aconite as _material software_
+    * Cinematic bodies and Ernie Gehr's _Side/Walk/Shuttle_
+    * Durational bodies: _Tofino_, _Freezing_, _Drift and Cut_
 
 
 # Outline
