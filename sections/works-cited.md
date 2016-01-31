@@ -4,6 +4,8 @@ Arnold, Martin. "Rat-drifting." Program notes. _Something New, Something Old, So
 
 Barry, Andrew, and Georgina Born. "Introduction." _Interdisciplinarity: Reconfigurations of the Cocial and Natural Sciences_. Eds. Andrew Barry and Georgina Born. London: Routledge, 2013. Print.
 
+Bretthauer, David. "Open Source Software: A History." _UConn Libraries Published Works_ 7 (2001). Web. http://digitalcommons.uconn.edu/cgi/viewcontent.cgi?article=1009&context=libr_pubs
+
 Bryant, Levi. _The Democracy of Objects._ Michigan: Open Humanities Press, 2011. Web. http://quod.lib.umich.edu/o/ohp/9750134.0001.001
 
 Cecchetto, David. "vagrant(ana)music: Three (four) Plateaus of a Contingent Music." _Radical Musicology_ 2 (2007). Web. http://www.radical-musicology.org.uk/2007/Cecchetto.htm
@@ -23,5 +25,7 @@ Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 20
 Klein, Julie Thompson. _Interdisciplinarity: History, theory, and practice_. Detroit: Wayne State University Press, 1990. Print.
 
 Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See it Again, Say it Again: The Artist as Researcher_. Ed. Janneke Wessling. Amsterdam: Valiz, 2011. Print.
+
+Stallman, Richard, Lawrence Lessig, and Joshua Gay, eds. _Free Software, Free Society: Selected Essays of Richard M. Stallman_. Boston: GNU Press, 2002. Web. https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
 
 Wark, McKenzie. _Telesthesia: Communication, Culture and Class_. Cambridge: Polity Press, 2012. Print.
