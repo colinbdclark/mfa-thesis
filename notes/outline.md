@@ -16,10 +16,19 @@
     * _In Passing_ as transformation
     * Environmental systems: Welsby's _Anemometer_ and _Greenwich Park_
 4. Bodies
-    * Hansen, "all reality is mixed reality"
-    * Computational bodies and Flocking/Aconite as _material software_
-    * Cinematic bodies and Ernie Gehr's _Side/Walk/Shuttle_
-    * Durational bodies: _Tofino_, _Freezing_, _Drift and Cut_
+    * Sonic and Cinema Bodies
+        * Extended materialism, Bennett
+        * Cinematic bodies and Ernie Gehr's _Side/Walk/Shuttle_
+        * Durational bodies: _Tofino_, _Freezing_, _Drift and Cut_
+    * Software Materiality
+        * Open source software
+        * Open as Method
+        * The Transformational/Material Commons
+            * Voyce, open source poetics
+            * My artworks as potential vectors
+            * Flocking, Aconite, _Font Màgica_
+    * Software Bodies
+        * Hansen, "all reality is mixed reality"
 
 
 # Outline
