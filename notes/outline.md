@@ -19,14 +19,14 @@
     * Key methods:
         * Lensing
         * Open source collaboration
-2. Lensing
+4. Lensing
     * "Lensing is a mode of practice and theory that emphasizes transformational interactions amongst artworks, bodies, and concepts."
     * Technical, perceptual, conceptual
     * Relationship to Bal's _framing_
     * Brakhage, his vision exercises, _The Cat of the Worm's Green realm_, energy
     * My own perceptual exercises and technical and bodily lensing
     * _Everything is Awake!_, _Indian Horse_
-3. Information, Energy, Duration, and Modulation
+5. Information, Energy, Duration, and Modulation
     * How synthesis modulation works (Flocking)
     * Latour, "there is no information"
     * _In Passing_ as transformation
@@ -38,7 +38,7 @@
             * _Drift and Cut_: recreational, pointless, drifting time
             * Long takes in _Tiny Trumpets_, etc.
             * Temporal folding and folding, coextensive time in _Tofino_
-4. Vibrant Bodies
+6. Vibrant Bodies
     * Sonic and Cinema Bodies
         * Extended materialism, Bennett
         * Cinematic bodies and Ernie Gehr's _Side/Walk/Shuttle_
@@ -55,7 +55,6 @@
         * Hanson, "all reality is mixed reality," technics as constituitive of embodied perception
         * _Body_ defined as that which has material influences on other bodies
         * Jane Bennett, vibrant matter, poetry as body, etc.
-
-5. Conclusion: Insignificant Surfaces
+7. Conclusion: Insignificant Surfaces
     * Flusser and the everyday, Mekas
     * Next steps in my project
