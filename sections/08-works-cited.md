@@ -18,6 +18,8 @@ Clarke, Bruce, and Mark B. N. Hansen. "Introduction." _Emergence and Embodiment:
 
 Croft, John. "Composition is Not Research." _Tempo_ 69.272 (2015): 6-11. Print.
 
+Dabbish, Laura, et al. "Social coding in GitHub: transparency and collaboration in an open software repository." _Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work_. 2012. Web. http://www.cs.cmu.edu/afs/cs/Web/People/xia/resources/Documents/cscw2012_Github-paper-FinalVersion-1.pdf
+
 Debord, Guy. "The Theory of the Dérive." _Situationist International Online_. Trans. Ken Knabb. Web. 26 Jan. 2016. http://www.cddc.vt.edu/sionline/si/theory.html
 
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.

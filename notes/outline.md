@@ -1,5 +1,7 @@
 # Outline
 
+Methods -> Lensing -> Information, Transformation, Energy, and Duration -> Vibrant Bodies -> Insignificant surfaces conclusion
+
 1. Abstract & Acknowledgements
 2. Introduction
     * Description of my work (video, sound, design) and the goal of this theoretical component of it
