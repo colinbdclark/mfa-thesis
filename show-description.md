@@ -1,4 +1,4 @@
-# _Insignificant Surfaces_: videos by Colin Clark
+Insignificant Surfaces: videos by Colin Clark
 
 Friday, March 18, 2016
 Arraymusic Studio
@@ -6,11 +6,12 @@ Arraymusic Studio
 8pm
 Admission is free!
 
-The Loop Collective and Arraymusic co-present a screening of recent digital videos by Colin Clark. These works quietly explore a durational cinema of the sea, trees, plants, animals, and people. This event is part of an ongoing series of screenings in 2016 celebrating the Loop Collective's 20th anniversary.
+The Loop Collective and Arraymusic co-present a screening of recent digital videos by Colin Clark. These durational videos quietly sound the cinematic technicity of the sea, trees, plants, animals, and people.
 
-Bio:
+This event is part of an ongoing series of screenings in 2016 celebrating the Loop Collective's 20th anniversary.
 
-Colin Clark is a video artist, composer, and design researcher at OCAD University’s Inclusive Design Research Centre. Since 2011, he has produced a growing body of digital videos that explore the relationships between technology, nature, and time, often incorporating custom-made image and sound processing techniques. His music has been performed by Arraymusic, the neither/nor collective, the Draperies, and his own ensembles, Lions and Fleischmop (with Kelly Egan and Alex Geddie). Colin's soundtracks for experimental films by Izabella Pruska-Oldenhof and R. Bruce Elder have been shown at film festivals internationally. He joined Toronto's Loop Collective in 2001, with whom he has curated exhibitions featuring the work of Chris Welsby, Michael Snow, John Cage, and others. Colin is the creator of _Flocking_ and _Aconite_, web-based creative software for sound synthesis, music composition, data sonification, and video processing. These freely-available tools are used by software artists and musicians around the world.
+
+Colin Clark is a video artist, composer, and design researcher at OCAD University’s Inclusive Design Research Centre. Since 2011, he has produced a growing body of digital videos that explore the relationships between technology, nature, and time, often incorporating custom-made image and sound processing techniques. His music has been performed by Arraymusic, the neither/nor collective, the Draperies, and his own ensembles, Lions and Fleischmop. Colin's soundtracks for experimental films by Izabella Pruska-Oldenhof and R. Bruce Elder have been shown at film festivals internationally. He has curated exhibitions with the Loop Collective featuring the work of Chris Welsby, Michael Snow, John Cage, and others. Colin also develops Flocking and Aconite, web-based creative software tools for sound synthesis and video processing used by artists and musicians around the world.
 
 
 ##Programme:
