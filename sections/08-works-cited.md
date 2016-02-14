@@ -30,4 +30,6 @@ Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See 
 
 Stallman, Richard, Lawrence Lessig, and Joshua Gay, eds. _Free Software, Free Society: Selected Essays of Richard M. Stallman_. Boston: GNU Press, 2002. Web. https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
 
+Twigger Holroyd, Amy. "Re-Knitting." _Keep and Share_. Web. 13 Feb. 2016. http://www.keepandshare.co.uk/making/re-knitting
+
 Wark, McKenzie. _Telesthesia: Communication, Culture and Class_. Cambridge: Polity Press, 2012. Print.
