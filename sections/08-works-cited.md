@@ -33,3 +33,7 @@ Stallman, Richard, Lawrence Lessig, and Joshua Gay, eds. _Free Software, Free So
 Twigger Holroyd, Amy. "Re-Knitting." _Keep and Share_. Web. 13 Feb. 2016. http://www.keepandshare.co.uk/making/re-knitting
 
 Wark, McKenzie. _Telesthesia: Communication, Culture and Class_. Cambridge: Polity Press, 2012. Print.
+
+Welsby, Chris. "Colour Separation Notes." _Chris Welsby_. Web. 15 Feb. 2016.
+
+Welsby, Chris. "Technology, Nature, Software and Networks: Materializing the Post-Romantic Landscape." _Leonardo_ 44.2 (2011): 101-106. Print.
