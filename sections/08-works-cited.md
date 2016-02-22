@@ -2,6 +2,12 @@
 
 Arnold, Martin. "Rat-drifting." Program notes. _Something New, Something Old, Something Else_. City Hall, Sheffield. 6 May 2009. Web. http://eprints.hud.ac.uk/5697/2/Trunk_SNSOSE_prognotes.pdf
 
+Basman, Antranig. "If What We Made Were Real." _Fluid Project Wiki_. 2 May 2014. Web. 11 August 2014.
+
+Basman, Antranig, Colin Clark, and Clayton Lewis. "Harmonious Authorship from Different Representations." _Psychology of Programming Interest Group Annual Conference 2015_. Melanie Coles and Gail Ollis, eds. Web. http://www.ppig.org/sites/default/files/2015-PPIG-26th-Basman.pdf
+
+Basman, Antranig, Clayton Lewis, and Colin Clark. "To Inclusive Design Through Contextually Extended IoC: Infusion IoC, a JavaScript Library and Mentality for Scalable Development of Accessible and Maintainable Systems." _Proceedings of the ACM International Conference Companion on Object Oriented Programming Systems Languages and Applications Companion_ (2011): 237-256. Print.
+
 Barry, Andrew, and Georgina Born. "Introduction." _Interdisciplinarity: Reconfigurations of the Cocial and Natural Sciences_. Eds. Andrew Barry and Georgina Born. London: Routledge, 2013. Print.
 
 Bretthauer, David. "Open Source Software: A History." _UConn Libraries Published Works_ 7 (2001). Web. http://digitalcommons.uconn.edu/cgi/viewcontent.cgi?article=1009&context=libr_pubs
@@ -13,6 +19,8 @@ Cecchetto, David. "vagrant(ana)music: Three (four) Plateaus of a Contingent Musi
 Cecchetto, David. "Thoughts on Creative Practice and Research." _The Occulture_. 10 Feb. 2013. Web. 26 Jan. 2016. http://www.theocculture.net/thoughts-on-creative-practice-and-research/
 
 Clark, Colin, Dana Ayotte, and Antranig Basman. "About Us, With Us: The Fluid Project's Inclusive Design Tools." _Proceedings of the 2016 Human Computer International Conference_. Springer International Publishing, in press. Print.
+
+Clark, Colin and Adam Tindale. "Flocking: A Framework for Declarative Music-Making on the Web." _Proceedings of the International Computer Music Conference, International Computer Music Association_ (2014): 1550-1557. Web. http://www.smc-conference.net/smc-icmc-2014/images/proceedings/OS13-B11-Flocking.pdf
 
 Clarke, Bruce, and Mark B. N. Hansen. "Introduction." _Emergence and Embodiment: New Essays on Second-Order Systems Theory_. Durham: Duke University Press, 2009. Print.
 
