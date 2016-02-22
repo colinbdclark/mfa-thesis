@@ -51,6 +51,8 @@ Another little perceptual experiment: wobble your head in your best imitation of
 
 Here, I will elaborate on and pair it with the concept of _modulation_.
 
+* This section should include a brief discussion of "the everyday," Jonas Mekas' videos (and one or two of my own), and how simple coextensivity--_taking time_ with something--becomes an ongoing lens on reality, transforming our way of seeing quotidian events in our own lives.
+
 ### Lenses and Modulators (Cinema is an Energy Machine!)
 
 An optical lens is a tool for focussing, bending, magnifying, or distorting light by means of refraction. The nature and extent of this refraction is always influenced by the characteristics of the lens itself, its material and curvature. Lenses are never a fully transparent instrument, always lending their own particular qualities to the images they mediate. More broadly, we can imagine a verb: to lens. The process of lensing, then, can be understood as a form of technologically mediated transformation between different states or ways of seeing. Lenses are, as both a literal and a metaphorical force, crucial to my practice; this section explores several instances of such metaphorical lenses and their role within my work and that of others such as Stan Brakhage, Jonas Mekas, and Chris Welsby.
