@@ -46,14 +46,50 @@ As an art form, re-knitting shows how new works can be created from old ones not
 
 ## Artifactual Materiality in Practice
 
-I do not want to linger for long here on the technical details of _Flocking_, _Aconite_, or my software-based videos and compositions, since they are discussed extensively elsewhere<sup>7</sup>. However, I feel that it is necessary to briefly examine the mechanism by which these tools might someday function as material vectors for a creativity.
+I do not want to linger for long here on the technical details of _Flocking_, _Aconite_, or my software-based videos and compositions, since they are discussed extensively elsewhere<sup>7</sup>. However, I feel that it is necessary to briefly examine the mechanism by which these tools aspire to function as material vectors for further creative practices--my own and those of others.
 
-By virtue of the manner in which they are constructed and the nature of tools with which they are constructed with, my software-based videos and music--in context of this project, _In Passing_, _Tofino_, and _Font Màgica_--were developed in a different way from most conventional software. Programming typically enacts a curious separation between code and data. Code usually represents the "logic" and "behaviour" of a piece of software; as Chun points out, source code is understood as the active agent of computation (19). In contrast, data is passive and raw; the material from which computational representations are formed. Programming languages are designed to process data, but are not themselves easily processable<sup>8</sup>. This means that ordinary programs (with the exception of special class of parsers, interpreters, code generators, and compilers) are unable to understand or modify other programs. Perhaps counter-intuitively, this oft-neglected computational self-referenceability, also known as "homoiconicity"--the ability for programs to treat themselves and other programs as data--is the prerequisite for a convivial software materiality in which individuals and communities can participate "bidirectionally" (Basman et al 255).
+By virtue of the manner in which they are constructed and the nature of tools with which they are constructed, my software-based videos and music (in context of this project, _In Passing_, _Tofino_, and _Font Màgica_) were developed in a different way from most conventional software. Programming typically enacts a curious separation between code and data. Code represents the "logic" and "behaviour" of a piece of software; as Chun notes, source code is usually understood as the primary active agent of computation (19). In contrast, data is passive and raw; it serves as the material from which computational representations are formed. Programming languages are designed to process data, but are not themselves easily processable<sup>8</sup>. This means that ordinary programs are unable to understand or modify other programs<sup>9</sup>. Perhaps counter-intuitively, this oft-neglected computational self-referenceability, also known as "homoiconicity"--the ability for programs to treat themselves and other programs as data, and thus, to self-modify--is the prerequisite for individuals and communities (not just algorithms) to also more directly participate in a convivial software materiality "bidirectionally" as both users and creators (Basman et al 255).
 
+Programs made with Flocking and Aconite are data, not just code. This means, in particular, that they can be "understood" and modified algorithmically as data, using the strategies that are typically used for data processing. One particular technique is used extensively in Flocking programs to make them more amenable to material transformation: merging. In Flocking, instruments and signal processors are defined as "trees" of data that represent the connections amongst individual "unit generators," or signal producing/modulating algorithms. Even the compositional or "meta-level" material of piece can be defined as a tree of signals, as in _Font Màgica<sup>10</sup>. By structuring a program as nested collections of named values, simple algorithms can be created (including ones that are built directly into Flocking and its underlying support infrastructure), in order to "graft" or merge different signal trees together freely. A given instance of a signal tree created by one artist can be rewired and modified without "forking" or changing the original source<sup>11</sup>, nor requiring there even to be an intent or design to support such adaptation. Hence, code-as-data participates in a form of implicit gift economy where each work holds the potential to serve as the seed for new ones.
 
-* how flocking and my creative software reflects this materiality
-* my art, again, as vector
-* Acknowledge the aspirational character of this work--Alan Kay and the cardboard mockup
+Like Amy Twigger-Holroyd's spectrum of treatments for knitted objects, merging and other data processing strategies in Flocking--enabled by the resolution of the code/data rift via new architectural techniques--provide a means to materially transform the nature and logic of a program, allowing its capacities and energies to be changed, re-channeled, or vectorized into new artistic forms and textures. Notably, this "graftability" of my software can increasingly be applied at any point in the creative life of a program, from its inception as source code right up to the runtime manifestation of a program<sup>12</sup>.
+
+    {
+        buffer: "chopin-left",
+        speed: 1.0,
+        loop: 0.0,
+
+        "synthDef": {
+            "ugen": "flock.ugen.out",
+            "bus": 16,
+            "expand": 1,
+            "sources": {
+                "ugen": "flock.ugen.filter.biquad.lp",
+                "freq": 1000,
+                "source": {
+                    "id": "volume-tracker",
+                    "ugen": "flock.ugen.amplitude",
+                    "source": {
+                        ugen: "flock.ugen.playBuffer",
+                        loop: "{that}.options.loop",
+                        speed: "{that}.options.speed",
+                        buffer: "{that}.options.buffer"
+                    }
+                }
+            }
+        }
+    }
+Figure 1: _An example of how signal processing programs are represented in Flocking. This program's signal is used to determine the overall compositional structure of_ Font Màgica. _It represents an instance of "declarative" data flow programming, where a collection of unit generators are specified within a loosely schematized data structure to 1) read an audio file's signal from a "bus", 2) track the volume of the incoming audio, and 3) smooth the output of the amplitude tracker using a low-pass filter._
+
+![Image of the signal-processing "synth" used to determine the overall compositional structure of Font Màgica.](../images/raindrop-macro-structure-synth-diagram.png)
+Figure x: _An illustration, generated using Flocking's interactive textual/graphical programming environment, of the meta-level structure of_ Font Màgica.
+
+Secondly, Flocking and Aconite programs are constructed using a rich network of "landmarks," or global names, which provide stable references into every point of compositional logic in a program. Traditionally, names are either inward-facing constructs or pseudo-legal contracts, designed to make it easier for a team of programs to understand their code or to provide a fixed... (computation fastidiously covers its tracks; composition erases its components, etc)
+
+In contrast, my programs offer
+
+* note how this approach to signal processing isn't limited to audible sound, and has become a crucial technique in my approach to video processing, to the point where _Aconite_ explicitly supports the injection and synchronization of Flocking synths into its frame-processing pipeline.
+* "rich network of landmarks"
 
 ## Material Commons, Material Systems
 
@@ -115,11 +151,19 @@ THE KEY TO ALL OF THIS IS NOT SO MUCH THAT THE MATERIAL ASPECTS OF SOFTWARE ARE 
 
 6. _Constructed Land_, by David Bouchard, Alex Geddie, Bruno Lessard and Pierre Tremblay, was exhibited in 2012 at Interaccess in Toronto. Documentation of the installation, including some of Alex's music, is available at http://nunavutlights.com/. My own Flocking "port" of his SuperCollider instruments, which were foundational to me as both technical exemplars as well as aesthetic ear-benders, are available at https://github.com/colinbdclark/compositions/tree/master/alex-kimmirut
 
-7. I wrote about Flocking's design and architecture in detail in "Flocking: A Framework for Declarative Music-Making on the Web" (Clark and Tindale). The underlying software development idioms and philosophy of Flocking and Aconite is described in "Harmonious Authorship from Different Representations" (Basman, Clark, and Lewis) and in "To Inclusive Design Through Contextually Extended IoC" (Basman, Lewis, and Clark).
+7. I wrote about Flocking's design and architecture in detail in "Flocking: A Framework for Declarative Music-Making on the Web" (Clark and Tindale). The underlying software development idioms and philosophy employed within Flocking and Aconite are described in "Harmonious Authorship from Different Representations" (Basman et al) and in "To Inclusive Design Through Contextually Extended IoC" (Basman et al).
 
 8. Chun, strangely, neglects to examine this issue, choosing instead (as most programmers do) to take the code/data distinction as a given. LISP, however, was the first and paradigmatic language to challenge this; other languages and environments (including my own) have followed. The index of _Programmed Visions_ omits LISP entirely, and Chun limits herself to only a passing reference to John McCarthy and his language, apparently missing the point that it's interactivity wasn't simply a function "of the limitations of procedural programming" (61), but rather a features of its ability to self-reference. For me, the language represents the leak in her schematic regarding the evolution of computation from an emphasis on execution on a specific machine to its erasure by source code. LISP is an environment in which code is represented _as data_, which means that its "source" is changeable by the program itself or by other programs. LISP programs are LISP data structures; this characteristic is known as "homoiconicity," and opens up the possibility that programs, not just data, can be transformed and modified by other programs (Basman et al 255). Complicating the narrative of Chun's argument, LISP fails to maintain the ideology of code as "originary" text, since the materials of a software program is itself available to be modified during the process of interpretation and use.
 
-8. Amongst, for example, the Dadaists, Fluxus, John Cage, and others.
+9. With the exception of a special class of programs such as parsers, interpreters, code generators, and compilers, all of which are typically unidirectional and which exemplify exactly the kind of erasure that Chun says plagues our models of computation today.
+
+10. This architecture, in which all aspects of a composition are represented as "signals" that can be modulated freely by other signals, both at high and low frequencies (i.e. on the scale of both timbres and the over-arching stucture of a piece) is derived from James Tenney's early computer music composition work at Bell Labs in the early 1960s (Clark and Tindale 1554).
+
+11. In open source software development, a "fork" is a split in the community that manifests itself in a systematized failure to share a single artifact. As diverging features are introduced to one or the other source code forks, the result is often a break in the linkage between the two pieces of software, making them incompatible. In contrast, Flocking's goal is preserve as best as possible the linkage of software artifacts even when faced of diverse and conflicting goals, requirements, and approaches. This is achieved in part by allowing differences to specifically be represented, named, and addressed within the system.
+
+12. For example, Flocking's "live" programming environment is increasingly capable of applying changes to a running signal processing graph, blurring the classical source/execution, creation/use pair of distinctions. I have performed live with an early version of this system, though I retain a number of serious aesthetic and technical concerns about the ideology and practice of live "performance" coding.
+
+11. Amongst, for example, the Dadaists, Fluxus, John Cage, and others.
 
 ## Boneyard
 
@@ -128,7 +172,6 @@ Following this, I will extend the concept of materiality into the created artifa
 In contrast to Voyce's (and Stallman's, for that matter) textual, appropriative, "forking"<sup>7</sup> mode of modifiability, I am arguing for an artifactual one. Voyce: "While modifying a source text might involve deleting or excising, it can also involve extending, transforming, and sharing a given work... Such techniques release a portion of a text from its static, fixed position in a single work, enabling it to participate in a proliferation of potential texts amid continuously changing assemblages of authorial, intertextual, and communal networks" (409).
 
 
-7. In open source software development, a "fork" is a split in the community that manifests itself in a systematized failure to share and contribute to a single artifact. As diverging features are introduced to one or the other source code forks, the result is often a break in the linkage between the two pieces of software, making them incompatible. In contrast, my goal (along with that of the Fluid community's) is preserve (via a new approach to programming) as best as possible the linkage of software artifacts even when faced of diverse and conflicting goals, requirements, and approaches.
 
 "The responsibility of the avant-garde will instead require an activistic obligation to create and fortify public domains of open source knowledge, to challenge excessive restrictions placed on language and information, to bring forth marginalized knowledges from a position of inaccessibility to the public at large, and to produce and share artistic tactics and works that challenge intellectual property. That which is at stake is nothing less than open accessibility to culture" (427-8).
 
