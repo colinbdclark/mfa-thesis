@@ -55,9 +55,9 @@ Programs made with Flocking and Aconite are data, not just code. This means, in 
 Like Amy Twigger-Holroyd's spectrum of treatments for knitted objects, merging and other data processing strategies in Flocking provide a means to materially transform the nature and logic of a program, allowing its capacities and energies to be changed, re-channeled, or vectorized into new artistic forms. Notably, this "graftability" of my software can increasingly be applied at any point in the creative life of a program, from its inception as source code right up to the runtime manifestation of a program<sup>12</sup>.
 
     {
-        buffer: "chopin-left",
-        speed: 1.0,
-        loop: 0.0,
+        "buffer": "chopin-left",
+        "speed": 1.0,
+        "loop": 0.0,
 
         "synthDef": {
             "ugen": "flock.ugen.out",
@@ -70,10 +70,10 @@ Like Amy Twigger-Holroyd's spectrum of treatments for knitted objects, merging a
                     "id": "volume-tracker",
                     "ugen": "flock.ugen.amplitude",
                     "source": {
-                        ugen: "flock.ugen.playBuffer",
-                        loop: "{that}.options.loop",
-                        speed: "{that}.options.speed",
-                        buffer: "{that}.options.buffer"
+                        "ugen": "flock.ugen.playBuffer",
+                        "loop": "{that}.options.loop",
+                        "speed": "{that}.options.speed",
+                        "buffer": "{that}.options.buffer"
                     }
                 }
             }
