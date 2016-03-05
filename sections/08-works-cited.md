@@ -32,6 +32,8 @@ Debord, Guy. "The Theory of the Dérive." _Situationist International Online_. T
 
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.
 
+Kittler, Friedrich. "There is No Software." _CTheory_ 18 October 1995. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=74
+
 Klein, Julie Thompson. _Interdisciplinarity: History, theory, and practice_. Detroit: Wayne State University Press, 1990. Print.
 
 Mudede, Charles. "The Turntable." _CTheory_ 23 April 2003. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=382
@@ -48,6 +50,6 @@ Twigger Holroyd, Amy. "Re-Knitting." _Keep and Share_. Web. 13 Feb. 2016. http:/
 
 Wark, McKenzie. _Telesthesia: Communication, Culture and Class_. Cambridge: Polity Press, 2012. Print.
 
-Welsby, Chris. "Colour Separation Notes." _Chris Welsby_. Web. 15 Feb. 2016.
+Welsby, Chris. "Film Notes for Colour Separation." _Chris Welsby_. Web. 15 Feb. 2016. http://www.sfu.ca/~welsby/Csepnote.htm
 
 Welsby, Chris. "Technology, Nature, Software and Networks: Materializing the Post-Romantic Landscape." _Leonardo_ 44.2 (2011): 101-106. Print.
