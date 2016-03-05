@@ -34,6 +34,10 @@ Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 20
 
 Klein, Julie Thompson. _Interdisciplinarity: History, theory, and practice_. Detroit: Wayne State University Press, 1990. Print.
 
+Mudede, Charles. "The Turntable." _CTheory_ 23 April 2003. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=382
+
+Munster, Anna. "Transmateriality: Toward an Energetics of Signal in Contemporary Mediatic Assemblages." _Cultural Studies Review_ 20.1 (2014): 150-167.
+
 Negarestani, Reza. "Contingency and Complicity." _The Medium of Contingency_ (2011): 11-16. Web.
 
 Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See it Again, Say it Again: The Artist as Researcher_. Ed. Janneke Wessling. Amsterdam: Valiz, 2011. Print.
