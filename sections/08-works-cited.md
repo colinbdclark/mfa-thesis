@@ -32,6 +32,8 @@ Debord, Guy. "The Theory of the Dérive." _Situationist International Online_. T
 
 De Certeau, Michel. _The Practice of Everyday Life_. Berkeley: University of California Press, 1984. Print.
 
+Epstein, Jean. _The Intelligence of a Machine_. Trans. Christophe Wall-Romana. Minneapolis: Univocal Publishing, 2014.
+
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.
 
 Kittler, Friedrich. "There is No Software." _CTheory_ 18 October 1995. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=74
@@ -47,6 +49,8 @@ Negarestani, Reza. "Contingency and Complicity." _The Medium of Contingency_ (20
 Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See it Again, Say it Again: The Artist as Researcher_. Ed. Janneke Wessling. Amsterdam: Valiz, 2011. Print.
 
 Stallman, Richard, Lawrence Lessig, and Joshua Gay, eds. _Free Software, Free Society: Selected Essays of Richard M. Stallman_. Boston: GNU Press, 2002. Web. https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
+
+Stiegler, Bernard. _Technics and Time, 3: Cinematic Time and the Question of Malaise_. Trans. Stephen Barker. Stanford: Stanford University Press, 2011. Print.
 
 Twigger Holroyd, Amy. "Re-Knitting." _Keep and Share_. Web. 13 Feb. 2016. http://www.keepandshare.co.uk/making/re-knitting
 
