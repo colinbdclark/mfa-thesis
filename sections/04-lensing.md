@@ -49,7 +49,7 @@ Another little perceptual experiment: wobble your head in your best imitation of
 
 ## In-Progress Area (Will be deleted)
 
-Here, I will elaborate on and pair it with the concept of _modulation_.
+Here, I will elaborate on and pair it with the concept of _modulation_. One could say that modulation is the temporal companion to lensing's spatial operations.
 
 ### Lenses and Modulators (Cinema is an Energy Machine!)
 

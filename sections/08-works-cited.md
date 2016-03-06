@@ -30,6 +30,8 @@ Dabbish, Laura, et al. "Social coding in GitHub: transparency and collaboration 
 
 Debord, Guy. "The Theory of the Dérive." _Situationist International Online_. Trans. Ken Knabb. Web. 26 Jan. 2016. http://www.cddc.vt.edu/sionline/si/theory.html
 
+De Certeau, Michel. _The Practice of Everyday Life_. Berkeley: University of California Press, 1984. Print.
+
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.
 
 Kittler, Friedrich. "There is No Software." _CTheory_ 18 October 1995. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=74
