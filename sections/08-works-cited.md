@@ -40,6 +40,8 @@ Epstein, Jean. _The Intelligence of a Machine_. Trans. Christophe Wall-Romana. M
 
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.
 
+Hofmann, Martin, Benjamin C. Pierce, and Daniel Wagner. “Symmetric Lenses”. _ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages_ (2011). Web. http://www.cis.upenn.edu/%7Ebcpierce/papers/symmetric-full.pdf
+
 Idhe, Don. "Stretching the In-between: Embodiment and Beyond". _Foundations of Science_ (2011) 16: 109-118. Print.
 
 Kittler, Friedrich. "There is No Software." _CTheory_ 18 October 1995. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=74
