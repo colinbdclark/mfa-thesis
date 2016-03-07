@@ -64,7 +64,9 @@ Stallman, Richard, Lawrence Lessig, and Joshua Gay, eds. _Free Software, Free So
 
 Stiegler, Bernard. _Technics and Time, 3: Cinematic Time and the Question of Malaise_. Trans. Stephen Barker. Stanford: Stanford University Press, 2011. Print.
 
-Twigger Holroyd, Amy. "Re-Knitting." _Keep and Share_. Web. 13 Feb. 2016. http://www.keepandshare.co.uk/making/re-knitting
+Twigger Holroyd, Amy. "About Re-Knitting." _Keep and Share_. Web. 13 Feb. 2016. http://www.keepandshare.co.uk/re-knitting/about-re-knitting
+
+Twigger Holroyd, Amy. "The Spectrum." _Keep and Share_. Web. 13 Feb. 2016. http://www.keepandshare.co.uk/re-knitting/spectrum-re-knitting-treatments
 
 Wark, McKenzie. _Telesthesia: Communication, Culture and Class_. Cambridge: Polity Press, 2012. Print.
 
