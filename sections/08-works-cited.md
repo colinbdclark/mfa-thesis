@@ -56,6 +56,10 @@ Munster, Anna. "Transmateriality: Toward an Energetics of Signal in Contemporary
 
 Negarestani, Reza. "Contingency and Complicity." _The Medium of Contingency_ (2011): 11-16. Web.
 
+Priest, eldritch. _Boring Formless Nonsense: Experimental Music and the Aesthetics of Failure_. New York: Bloomsbury, 2013. Print.
+
+Priest, eldritch. "Felt as Thought (or, Musical Abstraction and the Semblace of Affect)." Sound, Music, Affect: Theorizing Sonic Experience_. Eds. Marie Thompson and Ian Biddle. New York: Bloomsbury, 2013. Print.
+
 Schweizer, Harold. _On Waiting_. London: Routledge, 2008. Print.
 
 Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See it Again, Say it Again: The Artist as Researcher_. Ed. Janneke Wessling. Amsterdam: Valiz, 2011. Print.

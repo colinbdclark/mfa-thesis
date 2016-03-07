@@ -1,3 +1,40 @@
+## Medial Bodies
+
+Computers are fiercely abstract machines. This makes it too easy to lose sight of their materiality, their bodies. This body, I believe, extends beyond transistors in silicon and the electrical currents coursing through the wiring of the computer's hardware, despite Friedrich Kittler's strange and wonderful assertion that "There is No Software." The computer's mechanical/electrical physicality is certainly true, but alone it is as reductive a model as the idea that the whole of our own human bodies can be understood simply as the cellular and chemical parts that compose them.
+
+Not all bodies
+
+Cecchetto:
+
+"Sound is differential... sound as such calls us to think of it as a particular object that has no substance, as a kind of ideal object that nonetheless has real material effects... sound resists being placed at all and is in this sense as much relational as it is differential" (2-3)
+
+"For McLuhan, these four 'laws of media' collectively stem from the premise that 'each of man's artefacts is in fact a kind of word, a metaphor that translates experience from one form into another' so that artifacts of both hardware (i.e. a table, or a stick) and software (i.e. an idea, or a preposition) nature are understood by McLuhan as extensions of a human body (which includes that body's mind). However, the simultaneity of each vector--that is, the fact that every enhancement carries with it a simultaneous reversal potential, obsolescence, and retrieval--in combination with the present ubiquity of intelligent machines has ultimately decentered this human body, specifically by suggesting that the body itself, as well as subjectivity, is invested by technology." (6)
+
+This computational body is best seen, perhaps, through works of art. Software, though so often conceived of as representational or simulational in character, has real effects in _this_ world--it influences and can be influenced by our own bodies and perceptual apparatuses. It is true that we may not be able to directly touch a piece of software, but it undoubtedly has effects and a texture of its own. <cecchetto and sound as one example of an unruly bod>, and then the argument via Mitchell and Hansen that all perception--the visual perception of my cinema, for example--ultimately conects with an inner hapticity and sense of touch--by looking at the surface of my videos (and it's not only a surface--the reflection of the projector's beam through the space, illuminating the dust in its path), we are in some sense, via a distinctly technically-co-mingled perception that is entirely human, touching them and the software algorithms within them--these algorithmic energies, too, touch us with their light, duration...
+
+* the body of cinema--light, spatial coextensivity, duration--link this to the relational body of sound in Cecchetto
+* Jane Bennet, poetry's body
+* computation and cinema both are often understood as predominantly _representational_ in nature, and I believe that computation shares with corporate cinema its too-often fictional character
+* Wark: "the virtuality of expression. Representation always mimics but is less than what it represents; expression always differs from but exceeds the raw material of its production" (103).
+* Elder: "When a representation conveys information about an object, it does so by classifying it, by making it an instance of one or more kinds of entities recognized by the culture whose resources are drawn upon by the process through which representations are constructed" (308).
+3. Propose, based on Jane Bennett ("Texts are bodies that can light up, by rendering human perception more acute, those bodies whose favoured vehicle of affectivity is less wordy: plants, animals, blades of grass, household objects, trash") and Mark Hansen ("all reality is mixed reality", "technics are co-constitutive of our embodied perception"), that computation is itself embodied: software has a body, and enacts real bodily effects/affects in the world
+
+
+THE KEY TO ALL OF THIS IS NOT SO MUCH THAT THE MATERIAL ASPECTS OF SOFTWARE ARE SOMEHOW THE SUBJECT OF MY VIDEOS, BUT RATHER THAT THE PERCEPTUAL EXPERIENCE, AND THE TECHNICS THAT CO-CONSTITUTE OUR PERCEPTION OF THE REAL, DOUBLES THE MODIFIABILITY OF SOFTWARE--THAT IT IS THESE TWO FORMS OF TRANSFORMATION--TECHNICAL AND PERCEPTUAL--THAT GIVE MY WORK ITS BODY, AND WHICH CREATES A COMMUNITY OUT OF AND WITHIN THESE ARTISTIC ARTIFACTS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Notes on Information, Bodies, and Energy
 
 * the key is a different form of materiality, one which is not dominated by the "structuring metaphors" of solidity, permanence, etc. and towards more flexible materials, particularly (like Trigger-Holroyd) those that are amenable to extension, change over time
