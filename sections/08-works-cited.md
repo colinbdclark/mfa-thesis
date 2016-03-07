@@ -30,9 +30,19 @@ Dabbish, Laura, et al. "Social coding in GitHub: transparency and collaboration 
 
 Debord, Guy. "The Theory of the Dérive." _Situationist International Online_. Trans. Ken Knabb. Web. 26 Jan. 2016. http://www.cddc.vt.edu/sionline/si/theory.html
 
+De Certeau, Michel. _The Practice of Everyday Life_. Berkeley: University of California Press, 1984. Print.
+
+Epstein, Jean. _The Intelligence of a Machine_. Trans. Christophe Wall-Romana. Minneapolis: Univocal Publishing, 2014.
+
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.
 
+Kittler, Friedrich. "There is No Software." _CTheory_ 18 October 1995. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=74
+
 Klein, Julie Thompson. _Interdisciplinarity: History, theory, and practice_. Detroit: Wayne State University Press, 1990. Print.
+
+Mudede, Charles. "The Turntable." _CTheory_ 23 April 2003. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=382
+
+Munster, Anna. "Transmateriality: Toward an Energetics of Signal in Contemporary Mediatic Assemblages." _Cultural Studies Review_ 20.1 (2014): 150-167.
 
 Negarestani, Reza. "Contingency and Complicity." _The Medium of Contingency_ (2011): 11-16. Web.
 
@@ -40,10 +50,12 @@ Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See 
 
 Stallman, Richard, Lawrence Lessig, and Joshua Gay, eds. _Free Software, Free Society: Selected Essays of Richard M. Stallman_. Boston: GNU Press, 2002. Web. https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
 
+Stiegler, Bernard. _Technics and Time, 3: Cinematic Time and the Question of Malaise_. Trans. Stephen Barker. Stanford: Stanford University Press, 2011. Print.
+
 Twigger Holroyd, Amy. "Re-Knitting." _Keep and Share_. Web. 13 Feb. 2016. http://www.keepandshare.co.uk/making/re-knitting
 
 Wark, McKenzie. _Telesthesia: Communication, Culture and Class_. Cambridge: Polity Press, 2012. Print.
 
-Welsby, Chris. "Colour Separation Notes." _Chris Welsby_. Web. 15 Feb. 2016.
+Welsby, Chris. "Film Notes for Colour Separation." _Chris Welsby_. Web. 15 Feb. 2016. http://www.sfu.ca/~welsby/Csepnote.htm
 
 Welsby, Chris. "Technology, Nature, Software and Networks: Materializing the Post-Romantic Landscape." _Leonardo_ 44.2 (2011): 101-106. Print.

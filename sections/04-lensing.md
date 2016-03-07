@@ -49,7 +49,7 @@ Another little perceptual experiment: wobble your head in your best imitation of
 
 ## In-Progress Area (Will be deleted)
 
-Here, I will elaborate on and pair it with the concept of _modulation_.
+Here, I will elaborate on and pair it with the concept of _modulation_. One could say that modulation is the temporal companion to lensing's spatial operations.
 
 * This section should include a brief discussion of "the everyday," Jonas Mekas' videos (and one or two of my own), and how simple coextensivity--_taking time_ with something--becomes an ongoing lens on reality, transforming our way of seeing quotidian events in our own lives.
 
