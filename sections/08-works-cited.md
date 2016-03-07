@@ -62,6 +62,8 @@ Priest, eldritch. _Boring Formless Nonsense: Experimental Music and the Aestheti
 
 Priest, eldritch. "Felt as Thought (or, Musical Abstraction and the Semblace of Affect)." Sound, Music, Affect: Theorizing Sonic Experience_. Eds. Marie Thompson and Ian Biddle. New York: Bloomsbury, 2013. Print.
 
+Renaud, Nicholas. "Stan Brakhage in Montreal." _Public Intellectual_ 5.4 (2001). Web. http://offscreen.com/view/brakhage4
+
 Schweizer, Harold. _On Waiting_. London: Routledge, 2008. Print.
 
 Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See it Again, Say it Again: The Artist as Researcher_. Ed. Janneke Wessling. Amsterdam: Valiz, 2011. Print.
