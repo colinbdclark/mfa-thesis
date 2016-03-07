@@ -1,13 +1,10 @@
-# Vibrant Digital Bodies: Cinema, Software, and Community
+# Computational Materialism: Cinema, Software, and Community
 
-The goals of this section are to:
-1. Extend the concepts of materiality and embodiment to include computation, electronic music, and digital cinema
-2. Explore the relationship between community methods, my software artworks, and materiality
-3. Propose, based on Jane Bennett ("Texts are bodies that can light up, by rendering human perception more acute, those bodies whose favoured vehicle of affectivity is less wordy: plants, animals, blades of grass, household objects, trash") and Mark Hansen ("all reality is mixed reality", "technics are co-constitutive of our embodied perception"), that computation is itself embodied: software has a body, and enacts real bodily effects/affects in the world
+In this section, I propose the concept of _computational materialism_ and its relationship to open communities of practice. I explore how different strands of materialism operate and are systematize in my own digital cinema and music, situating my practice alongside the work of Amy Twigger Holroyd, Chris Welsby, and others. I use this idea of materialism to suggest an alternate perspective on digital technologies--one that emphasizes energy and signals over information and representation, ultimately suggesting that even computation has its own form of embodiment that can be experienced through technologically-mediated artworks.
 
 ## The Materials of Community
 
-This project involves two primary and interrelated software development activities:
+As discussed in the introduction, the software component of my project involves two primary and interrelated activities:
 
 1. Creating videos and music such as _In Passing_, _Tofino_, and the soundtrack for _Font Màgica_, which are generated or processed by means of software that I designed and built specifically for these pieces and their idiosyncrasies.
 2. Designing, developing, and sharing with a community a set of creative frameworks, _Flocking_ and _Aconite_, which were designed initially as a generalized support structure for my own creative endeavours, but grew to include use by, and support of, other artists in their own creative work
@@ -165,7 +162,7 @@ Instead, he proposes a model in which representations participate in an aligned 
 
 ## Medial Bodies
 
-Computers are fiercely abstract machines. But, as I have argued, they are also material; computation has a body. This body, I believe, extends beyond the circuits and electrical currents running through the silicon and wire of the computer itself, in contrast to what Kittler would have us believe with his strange and wonderful assertion that "there is no software" (CITE). This mechanical/electrical physicality is certainly true in some sense, but it is as reductive a model as the idea that our own human bodies are simply the cellular and chemical parts that compose them.
+Computers are fiercely abstract machines. But, as I have argued, they also have the potential to be material; computation has a body. This body, I believe, extends beyond the circuits and electrical currents running through the silicon and wire of the computer itself, in contrast to what Kittler would have us believe with his strange and wonderful assertion that "there is no software" (CITE). This mechanical/electrical physicality is certainly true in some sense, but it is as reductive a model as the idea that our own human bodies are simply the cellular and chemical parts that compose them.
 
 This computational body is best seen, perhaps, through works of art. Software, though so often conceived of as representational or simulational in character, has real effects in _this_ world--it influences and can be influenced by our own bodies and perceptual apparatuses. It is true that we may not be able to directly touch a piece of software, but it undoubtedly has effects and a texture of its own. <cecchetto and sound as one example of an unruly bod>, and then the argument via Mitchell and Hansen that all perception--the visual perception of my cinema, for example--ultimately conects with an inner hapticity and sense of touch--by looking at the surface of my videos (and it's not only a surface--the reflection of the projector's beam through the space, illuminating the dust in its path), we are in some sense, via a distinctly technically-co-mingled perception that is entirely human, touching them and the software algorithms within them--these algorithmic energies, too, touch us with their light, duration...
 
@@ -176,6 +173,7 @@ I want to take this concept of materiality as spontaneous or unplanned modificat
 * computation and cinema both are often understood as predominantly _representational_ in nature, and I believe that computation shares with corporate cinema its too-often fictional character
 * Wark: "the virtuality of expression. Representation always mimics but is less than what it represents; expression always differs from but exceeds the raw material of its production" (103).
 * Elder: "When a representation conveys information about an object, it does so by classifying it, by making it an instance of one or more kinds of entities recognized by the culture whose resources are drawn upon by the process through which representations are constructed" (308).
+3. Propose, based on Jane Bennett ("Texts are bodies that can light up, by rendering human perception more acute, those bodies whose favoured vehicle of affectivity is less wordy: plants, animals, blades of grass, household objects, trash") and Mark Hansen ("all reality is mixed reality", "technics are co-constitutive of our embodied perception"), that computation is itself embodied: software has a body, and enacts real bodily effects/affects in the world
 
 
 THE KEY TO ALL OF THIS IS NOT SO MUCH THAT THE MATERIAL ASPECTS OF SOFTWARE ARE SOMEHOW THE SUBJECT OF MY VIDEOS, BUT RATHER THAT THE PERCEPTUAL EXPERIENCE, AND THE TECHNICS THAT CO-CONSTITUTE OUR PERCEPTION OF THE REAL, DOUBLES THE MODIFIABILITY OF SOFTWARE--THAT IT IS THESE TWO FORMS OF TRANSFORMATION--TECHNICAL AND PERCEPTUAL--THAT GIVE MY WORK ITS BODY, AND WHICH CREATES A COMMUNITY OUT OF AND WITHIN THESE ARTISTIC ARTIFACTS.
@@ -252,14 +250,14 @@ In contrast to Voyce's (and Stallman's, for that matter) textual, appropriative,
 
 The original material is often stretched out in time or captured in a single gesture--. It is a process of taking a piu
 
-   * a process of de-registering and offsetting and making multiples, some stretched out in time or in a gesture, others just gently warped by an algorithm--and then re-registering the multiplicity of raindrop versions onto each other
-   * and each version is somehow produced by a reading of the piece itself, through a different lens
-   *--a little slower or faster, here, worrying over a region of expressive detail, there skipping...
+* a process of de-registering and offsetting and making multiples, some stretched out in time or in a gesture, others just gently warped by an algorithm--and then re-registering the multiplicity of raindrop versions onto each other
+* and each version is somehow produced by a reading of the piece itself, through a different lens
+*--a little slower or faster, here, worrying over a region of expressive detail, there skipping...
 
-   * but then the piece is open differently; each layer, each point of refraction is available to be separated out, reused, or modified in some way. Each node and edge in the assemblage has a name and a handle by which it can be manipulated and extended, "warbledRightPiano" and "distortedLeftPiano," every volume curve or synth that represents the macro structure equally with every grain of the stuttering piano is available to "touch"
-   * the point of font magica isn't that I composed or programmed with extra-musical concerns in mind, but that it was supported by a _material substrate_ (flocking and infusion) and a set of open community methods that support its extension--that support its use as both "source" and "secondary" (and tertiary, and so on), as well as supporting its linkage between static and executable forms, its "potential" and "actual" forms
-   * connection with Chris Welsby's _Colour Separation_
-     * Even more weirdly, I’m linking it to Welsby’s film Colour Separation, which is completely different but there’s a kind of formal connection--these “mis-registered” layers of sound produced by adherence to a process or algorithm
+* but then the piece is open differently; each layer, each point of refraction is available to be separated out, reused, or modified in some way. Each node and edge in the assemblage has a name and a handle by which it can be manipulated and extended, "warbledRightPiano" and "distortedLeftPiano," every volume curve or synth that represents the macro structure equally with every grain of the stuttering piano is available to "touch"
+* the point of font magica isn't that I composed or programmed with extra-musical concerns in mind, but that it was supported by a _material substrate_ (flocking and infusion) and a set of open community methods that support its extension--that support its use as both "source" and "secondary" (and tertiary, and so on), as well as supporting its linkage between static and executable forms, its "potential" and "actual" forms
+* connection with Chris Welsby's _Colour Separation_
+ * Even more weirdly, I’m linking it to Welsby’s film Colour Separation, which is completely different but there’s a kind of formal connection--these “mis-registered” layers of sound produced by adherence to a process or algorithm
 
 I am interested in the way that software artifacts can be made to support "material linkages" between existing and new works in a manner that goes in some way beyond citation or appropriation. Voyce insightfully imagines that avant-garde poetics can protect and contribute to a "commons"
 
@@ -287,14 +285,14 @@ The injection of "community" into my terminology emphasizes not just specific co
 
 
 The value of working transparently and in a feedback loop with  linking it as much to other like-minded creators around the world as to, equally, exposing it to different approaches that cut
-    * working transparently and openly is strange
-    * my work takes on different qualities by being openly available--serving as example for other other artists, and subtly influencing the kinds of works that are made by others
-    *
+* working transparently and openly is strange
+* my work takes on different qualities by being openly available--serving as example for other other artists, and subtly influencing the kinds of works that are made by others
+*
 
 The expression of such a material creative influence, however, can undoubtedly not retain its singularity--the myth of _the_ source as a singular "text"...
 
 Chun: ". If we consider source code as a fetish, the fact that source code has hardly deprived programmers of their priestlike/wizard status makes complete sense. If anything, such a notion of programmers has been disseminated ever more and the history of computing--from direct manipulation to hypertext--has been littered by various 'liberations.'"
-    * in response to Chun's apparently weariness (and wariness) about liberational projects in computing, I argue that we nonetheless need to pursue new and different approaches to computational liberation, since the litter she refers to is in fact cast atop an even more substantial landscape of consumption and control
+* in response to Chun's apparently weariness (and wariness) about liberational projects in computing, I argue that we nonetheless need to pursue new and different approaches to computational liberation, since the litter she refers to is in fact cast atop an even more substantial landscape of consumption and control
 
 Substantive changes made to software source code must always be negotiated through an essentially _centralized_ conception of community--all participants must agree to a kind of material "rule of law," or a "fork" will occur, splitting the common artifactual linkage between changes. (NEED A FOOTNOTE ABOUT OPEN SOURCE FORKING).
 

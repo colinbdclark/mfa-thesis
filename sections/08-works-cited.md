@@ -10,6 +10,8 @@ Basman, Antranig, Clayton Lewis, and Colin Clark. "To Inclusive Design Through C
 
 Barry, Andrew, and Georgina Born. "Introduction." _Interdisciplinarity: Reconfigurations of the Cocial and Natural Sciences_. Eds. Andrew Barry and Georgina Born. London: Routledge, 2013. Print.
 
+Brakhage, Stan. "My Eye". _Essential Brakhage_. New York: McPherson, 2001. 25­-36. Print.
+
 Bretthauer, David. "Open Source Software: A History." _UConn Libraries Published Works_ 7 (2001). Web. http://digitalcommons.uconn.edu/cgi/viewcontent.cgi?article=1009&context=libr_pubs
 
 Bryant, Levi. _The Democracy of Objects._ Michigan: Open Humanities Press, 2011. Web. http://quod.lib.umich.edu/o/ohp/9750134.0001.001
@@ -17,6 +19,8 @@ Bryant, Levi. _The Democracy of Objects._ Michigan: Open Humanities Press, 2011.
 Cecchetto, David. "vagrant(ana)music: Three (four) Plateaus of a Contingent Music." _Radical Musicology_ 2 (2007). Web. http://www.radical-musicology.org.uk/2007/Cecchetto.htm
 
 Cecchetto, David. "Thoughts on Creative Practice and Research." _The Occulture_. 10 Feb. 2013. Web. 26 Jan. 2016. http://www.theocculture.net/thoughts-on-creative-practice-and-research/
+
+Chambers, Jack. "Perceptual Realism." _Films of Jack Chambers_. Kathryn Elder, ed. Toronto: Toronto International Film Festival, 2002. 33-44. Print.
 
 Clark, Colin, Dana Ayotte, and Antranig Basman. "About Us, With Us: The Fluid Project's Inclusive Design Tools." _Proceedings of the 2016 Human Computer International Conference_. Springer International Publishing, in press. Print.
 
@@ -36,15 +40,23 @@ Epstein, Jean. _The Intelligence of a Machine_. Trans. Christophe Wall-Romana. M
 
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.
 
+Idhe, Don. "Stretching the In-between: Embodiment and Beyond". _Foundations of Science_ (2011) 16: 109-118. Print.
+
 Kittler, Friedrich. "There is No Software." _CTheory_ 18 October 1995. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=74
 
 Klein, Julie Thompson. _Interdisciplinarity: History, theory, and practice_. Detroit: Wayne State University Press, 1990. Print.
+
+Latour, Bruno. "How to Be Iconophilic in Art, Science, and Religion?" _Picturing Science Producing Art_. Carrie Jones and Peter Galison, eds. London: Routledge, 1998. 418-440. Print.
+
+Lovink, Geert and Pit Schultz. "There is no information, only transformation: An Interview with Bruno Latour." _Nettime_ 3 September 1997. Web. 6 March 2016. http://www.nettime.org/Lists-Archives/nettime-l-9709/msg00006.html
 
 Mudede, Charles. "The Turntable." _CTheory_ 23 April 2003. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=382
 
 Munster, Anna. "Transmateriality: Toward an Energetics of Signal in Contemporary Mediatic Assemblages." _Cultural Studies Review_ 20.1 (2014): 150-167.
 
 Negarestani, Reza. "Contingency and Complicity." _The Medium of Contingency_ (2011): 11-16. Web.
+
+Schweizer, Harold. _On Waiting_. London: Routledge, 2008. Print.
 
 Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See it Again, Say it Again: The Artist as Researcher_. Ed. Janneke Wessling. Amsterdam: Valiz, 2011. Print.
 
