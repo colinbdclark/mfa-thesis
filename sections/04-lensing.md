@@ -4,18 +4,14 @@ Lensing is a mode of practice and theory that emphasizes transformational intera
 
 ## Lensing as Research Method
 
-As a practice-based research method, lensing starts from Gillian Rose's assertion that arts-based research functions not within an empirical, positivist epistemology where "to know is to see," but in an interpretive mode where, "for studio-researchers, to _know is to see ... differently_" (quoted in Sullivan 85).
+As a practice-based research method, lensing starts from Gillian Rose's assertion that arts-based research functions not within an empirical, positivist epistemology where "to know is to see," but in an interpretive or transformative mode where, "for studio-researchers, to _know is to see ... differently_" (quoted in Sullivan 85).
 
 Though different, lensing shares characteristics with Mieke Bal's concept of _framing_. In her book, _Travelling Concepts in the Humanities_, Bal emphasizes that framing is an active process of contextualization, interpretation, and analysis (135-6). In defiance of the noun form ("a frame"), framing's methodological action, with its emphasis on temporality, duration, and change, aims to call into question the boundaries and status of its object of study. "As a verb, [framing]... also predicates that object, not in the abstract void of theoretical reflection, but in time, space, aspect; it frames it. Thus, all by itself, even on the level of the word alone, 'framing' questions the object-status of the objects studied in the cultural disciplines. This questioning results in a repositioning of the object as alive" (137).
 
-While lensing shares with framing the processual and temporal qualities of what I called earlier a "theory in motion," lensing is primarily experiential rather than interpretive in character. It is a method that aims to find ways to alter and transform of our modes of seeing, listening, and thinking via an engagement with what Karen Barad calls the "material-discursive phenomena" that constitute bodies in the world--a complex system or apparatus of concepts _and_ materials comprising both the human and non-human (Barad 822). Lensing, crucially, is also bidirectional: its transformations can be performed by creators, by works of art, and by "spectators" alike.
+While lensing shares with framing the processual and temporal qualities of what I called earlier a "theory in motion," lensing is primarily experiential rather than interpretive in character. It is a method that aims to find ways to alter and transform of our modes of seeing, listening, and thinking via an engagement with what Karen Barad calls the "material-discursive phenomena" that constitute bodies in the world--a complex system or apparatus of concepts _and_ materials comprising both the human and non-human (Barad 822). Lensing, crucially, is also bidirectional: its transformations can be performed by creators and "spectators" alike.
 
 I have generalized this concept of lensing from my software architectural research at the Inclusive Design Research Centre, where it extends from Benjamin Pierce's work on programming languages for data transformation (Hoffman et al. 1). There, lensing is a specific technical strategy that involves the creation of networks of "functional-reactive" relays that adapt and transform software state in response to change within the system. Lenses are implemented in a manner that enables them to be altered or replaced at any time, including in the midst of actually using the software. The goal of lensing, as it is implemented in the _Fluid Infusion_ programming framework<sup>2</sup> is to provide a "living" means to connect together software bodies from different individuals and communities without requiring their interface to be homogeneous<sup>3</sup>. Lensing, from the technological perspective, supports the movement of "open community" from simply a method into a characteristic of _the artifact of software itself_. I elaborate on this idea further in section 3, _Computational Materialism_.
 
-
-## Lensing As a Mode of Seeing
-
-* this needs to describe the transformative and essentially psychedelic experience of lensing
 
 ## The Mind's Eye Lens
 
@@ -23,11 +19,11 @@ In his book _Metaphors on Vision_, filmmaker Stan Brakhage describes a series of
 
 "Within this aura of non-shape, shapes reshape, and as long as the eye breathes them naturally, sponse and response equally unconscious, they continue their transformatory dance until one is involved purely with the innards of what one once knew only as outline... Willful attention, forced beyond the natural capacity for mental absorption, produces a willy-nilliness less memory-dominated... here one seems more practitioner than patient" (Brakhage 34).
 
-As texts, Brakhage's phenomenological accounts of his visual trance experiences are, in some sense, hopeless. Attempt to lens such fundamentally visual-imaginative experiences into the "word-world" unavoidably take on the "sense-killing finality" of language and description to which Brakhage was so ideologically averse to (29). His descriptions of these experiences productively struggle to free themselves from representation; Brakhage wrestles with language, trying to break or bend it from within in order to evoke some glimpse what lies beyond. His texts are poetic ghosts that mark, with syntactic fragmentation and neologistic explosion, an experience far outside themselves (36). This is, perhaps, the best that writing about art can hope for.
+As texts, Brakhage's phenomenological accounts of his visual trance experiences are, in some sense, hopeless. Attempt to lens such fundamentally visual-imaginative experiences into the "word-world" unavoidably take on the "sense-killing finality" of language and description to which Brakhage was so ideologically averse to (29). His descriptions of these experiences productively struggle to free themselves from representation; Brakhage wrestles with language, trying to break or bend it from within in order to evoke some glimpse what lies beyond. His texts are poetic ghosts that attempt to mark, using syntactic fragmentation and neologistic explosion, an experience far outside themselves (36). This is, perhaps, the best that writing about art can hope for.
 
 Yet Brakhage's reflections on self- and art-altered perceptual states still provide us with glimpses into other modes of seeing available beyond or in between the parallel lines of linear perspective, enlightenment rationality, and industrial technique. The subjective eye is a lens on the world.
 
-In other words, Brakhage's psychedelic visions point us toward the potential for creative modes of seeing where, as spectator or artist, we can actively transform a work of art through our perceptual and imaginative engagement with it. This transformational vision is a practice that must be cultivated and explored over time and with attention (or an assiduous lack thereof<sup>4</sup>). This mode of experience is not something that is achieved or controlled, but rather given, "bequeathed... at every illumination" (26). It is a receptivity, an opening up in equal measure to energies from within and without, a coupling of the imagination, the mind's eye, and the diversity of visual phenomena discoverable in external reality (realities?).
+Brakhage's psychedelic visions point us toward the potential for creative modes of seeing where, as spectator or artist, we can actively transform a work of art through our perceptual and imaginative engagement with it. This transformational vision is a practice that must be cultivated and explored over time and with attention (or an assiduous lack thereof<sup>4</sup>). This mode of experience is not something that is achieved or controlled, but rather given, "bequeathed... at every illumination" (26). It is a receptivity, an opening up in equal measure to energies from within and without, a coupling of the imagination, the mind's eye, and the diversity of visual phenomena discoverable in external reality (realities?).
 
 ## The Hand Lens
 
@@ -49,10 +45,23 @@ Try an experiment for yourself: sit still and make a smooth pan across the room 
 
 Another little perceptual experiment: wobble your head in your best imitation of a shaky, handheld telephoto lens. Despite best efforts, this doesn't work either. The eye never shakes like a camera. Rather than representing the translation of emotional worlds into direct visual form, or the pre-linguistic natural state of the eye (as Brakhage might argue), the shaking of the camera is always distinctly technological. It is constituted by, and only arises within, the technology of optics. Eyes don’t tremble, except on the fringes of illness or psychedelic states. Camera shake is a leakage of the mechanism into the frame, a reminder that cinema is not really a window onto an unmediated, viscous reality. It is a confirmation that everything in cinema is constituted via the technics of the lens and the camera and the hand. You are looking, but always within the framework of looking that cameras engender. Flusser’s "program" of the camera: "every photograph is a realization of one of the possibilities contained within the program of the camera" (26).  Cinema is an interaction between our sight, the camera’s capacity for engendering sight, and the hand that made the video.
 
-## The Everyday Lens
 
 ## The Body Lens
+
+In 1992, Ernie Gehr made a seemingly simple film called _Side/Walk/Shuttle_. In it, he films the San Francisco cityscape from the glass elevator of the Fairmont Hotel on Nob Hill. The film is forty-one minutes long, split into twenty-five takes (Sitney 214-15). Each time, Gehr ascends or descends in the elevator, his camera takes on a different orientation, composition, or tracking strategy. P. Adams Sitney describes the experience of watching it like this:
+
+"Divested of proprioceptive information about gravity and distance... Side/Walk/Shuttle’s cinematic subject must rely on the visual field for location and position... The top and bottom, and right and left, of the screen do not underwrite the corporeal coordinates of a viewer, who can nevertheless rapidly adjust to Gehr's systematic disorientations. Sometimes the filmmaker composed his shots so inventively we momentarily lose track of the direction, but even when the direction is clear it is easy to get so caught up in the wonder of the film that one loses awareness of its horizontal and vertical reversals" (215).
+
+It is easy to read _Side/Walk/Shuttle_ as a technical achievement, an exemplar of a structural cinema that lays bare its formal elements: its shots, compositions, and rhythms are clear and, superficially at least, unambiguous. Gehr shows all of his
+
+
+In Ernie Gehr's 1992 film, _Side/Walk/Shuttle_,
+Ernie Gehr's 1992 film, _Side/Walk/Shuttle_, is often cited as an example of "structural"
 * Side/Walk/Shuttle as a kind of pharmaceutical in both senses of the word--both carefully measured and mind/body-altering
+* The transparency of Gehr's technical operations is essential, not in order to revel in the technical excellence of it, but rather for it to do its work--to have a bodily effect on the viewer
+* Gehr in MacDonald: "the poetry and implications that may be found in noticing detail, and the longing one has to close in on it, while the larger field denies that access and soon enough swallows it up" (388)
+* "I stood up when the film was over and actually found myself wondering if I should grab a chair: I had a momentary loss of what was up and what was down" (393)
+
 
 ## In-Progress Area (Will be deleted)
 

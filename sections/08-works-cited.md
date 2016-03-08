@@ -66,6 +66,8 @@ Renaud, Nicholas. "Stan Brakhage in Montreal." _Public Intellectual_ 5.4 (2001).
 
 Schweizer, Harold. _On Waiting_. London: Routledge, 2008. Print.
 
+Sitney, P. Adams._Eyes Upside Down: Visionary Filmmakers and the Heritage of Emerson_. Oxford: Oxford University Press, 2008.
+
 Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See it Again, Say it Again: The Artist as Researcher_. Ed. Janneke Wessling. Amsterdam: Valiz, 2011. Print.
 
 Stallman, Richard, Lawrence Lessig, and Joshua Gay, eds. _Free Software, Free Society: Selected Essays of Richard M. Stallman_. Boston: GNU Press, 2002. Web. https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
