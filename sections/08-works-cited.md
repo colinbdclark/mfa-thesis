@@ -1,5 +1,7 @@
 # Works Cited
 
+Agamben, Giorgio. _What is an Apparatus?_. Trans. David Kishik and Stefan Pedatella. Stanford: Stanford University Press, 2009. Print.
+
 Arnold, Martin. "Rat-drifting." Program notes. _Something New, Something Old, Something Else_. City Hall, Sheffield. 6 May 2009. Web. http://eprints.hud.ac.uk/5697/2/Trunk_SNSOSE_prognotes.pdf
 
 Basman, Antranig. "If What We Made Were Real." _Fluid Project Wiki_. 2 May 2014. Web. 11 August 2014.
@@ -39,6 +41,8 @@ Debord, Guy. "The Theory of the Dérive." _Situationist International Online_. T
 De Certeau, Michel. _The Practice of Everyday Life_. Berkeley: University of California Press, 1984. Print.
 
 Epstein, Jean. _The Intelligence of a Machine_. Trans. Christophe Wall-Romana. Minneapolis: Univocal Publishing, 2014.
+
+Flusser, Villem. _Towards a Philosophy of Photography_. Trans. Anthony Mathews. London: Reaktion Books, 2000. Print.
 
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.
 
