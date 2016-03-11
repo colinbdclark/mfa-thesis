@@ -28,6 +28,8 @@ Clark, Colin and Adam Tindale. "Flocking: A Framework for Declarative Music-Maki
 
 Clarke, Bruce, and Mark B. N. Hansen. "Introduction." _Emergence and Embodiment: New Essays on Second-Order Systems Theory_. Durham: Duke University Press, 2009. Print.
 
+Crary, Jonathan. "Techniques of the Observer." _October_ 45 (1988): 3-35. Print.
+
 Croft, John. "Composition is Not Research." _Tempo_ 69.272 (2015): 6-11. Print.
 
 Dabbish, Laura, et al. "Social coding in GitHub: transparency and collaboration in an open software repository." _Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work_. 2012. Web. http://www.cs.cmu.edu/afs/cs/Web/People/xia/resources/Documents/cscw2012_Github-paper-FinalVersion-1.pdf
@@ -51,6 +53,8 @@ Klein, Julie Thompson. _Interdisciplinarity: History, theory, and practice_. Det
 Latour, Bruno. "How to Be Iconophilic in Art, Science, and Religion?" _Picturing Science Producing Art_. Carrie Jones and Peter Galison, eds. London: Routledge, 1998. 418-440. Print.
 
 Lovink, Geert and Pit Schultz. "There is no information, only transformation: An Interview with Bruno Latour." _Nettime_ 3 September 1997. Web. 6 March 2016. http://www.nettime.org/Lists-Archives/nettime-l-9709/msg00006.html
+
+Mayne, Judith. _Cinema and Spectatorship_. London: Routledge, 2002.
 
 Mudede, Charles. "The Turntable." _CTheory_ 23 April 2003. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=382
 
