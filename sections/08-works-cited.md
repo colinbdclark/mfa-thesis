@@ -42,6 +42,8 @@ Epstein, Jean. _The Intelligence of a Machine_. Trans. Christophe Wall-Romana. M
 
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.
 
+Hansen, Mark. _Bodies in Code._ New York: Routledge, 2006. Print.
+
 Hofmann, Martin, Benjamin C. Pierce, and Daniel Wagner. “Symmetric Lenses”. _ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages_ (2011). Web. http://www.cis.upenn.edu/%7Ebcpierce/papers/symmetric-full.pdf
 
 Idhe, Don. "Stretching the In-between: Embodiment and Beyond". _Foundations of Science_ (2011) 16: 109-118. Print.
@@ -53,6 +55,8 @@ Klein, Julie Thompson. _Interdisciplinarity: History, theory, and practice_. Det
 Latour, Bruno. "How to Be Iconophilic in Art, Science, and Religion?" _Picturing Science Producing Art_. Carrie Jones and Peter Galison, eds. London: Routledge, 1998. 418-440. Print.
 
 Lovink, Geert and Pit Schultz. "There is no information, only transformation: An Interview with Bruno Latour." _Nettime_ 3 September 1997. Web. 6 March 2016. http://www.nettime.org/Lists-Archives/nettime-l-9709/msg00006.html
+
+MacDonald, Scott. _A Critical Cinema 5: Interviews with Independent Filmmakers._ Berkeley: University of California Press, 2006. Print.
 
 Mayne, Judith. _Cinema and Spectatorship_. London: Routledge, 2002.
 
