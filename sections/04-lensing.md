@@ -35,6 +35,9 @@ In several of my recent videos, you can see traces of me holding or manipulating
 
 For Brakhage, camera shake is a filmmaker's love made visible, a direct transmission relayed between body, lens, and eye. His is an expressionistic mode of seeing, but it is nonetheless one that is rooted in cinema's profound ability to transmit and modulate affect.
 
+![Still from Everything is Awake!](../images/video-stills/everything-is-awake.png)
+_Figure x: A still from_ Everything is Awake!
+
 To me, the shaking camera is both marker and producer of a kind of energy, an overflow of vibration and movement. Cinema is a machine that transforms and transfers energies (Stiegler 10), and the viewer is the performer of these energies, their active gaze amplifying or attenuating cinema's unfolding vibrations. "All are priests both giving and receiving" (Brakhage 15). In _Everything is Awake_, the movement of the camera aims to further amplify and modulate the vibrational energy of its subject matter. The grasses and plants, as they move in the wind, are alive and awake energetically, and so too is the video apparatus they are captured by. All is in motion, textures for the eye, energy generated from their friction. The two-dimensional "significant" surface of the screen becomes variegated with texture, increasingly insignificant (Flusser 8). This is an active, haptic lensing that is "occupied by intensities, wind and noise, forces and tactile qualities" (Deleuze and Guattari 479). _Everything is Awake!_ is concerned not with conventional spectacular or narrative intensities<sup>6</sup>, but of awakening the bodily and energetic forces of haptic vision.
 
 
