@@ -1,5 +1,7 @@
 # Works Cited
 
+Agamben, Giorgio. _What is an Apparatus?_. Trans. David Kishik and Stefan Pedatella. Stanford: Stanford University Press, 2009. Print.
+
 Arnold, Martin. "Rat-drifting." Program notes. _Something New, Something Old, Something Else_. City Hall, Sheffield. 6 May 2009. Web. http://eprints.hud.ac.uk/5697/2/Trunk_SNSOSE_prognotes.pdf
 
 Basman, Antranig. "If What We Made Were Real." _Fluid Project Wiki_. 2 May 2014. Web. 11 August 2014.
@@ -28,6 +30,8 @@ Clark, Colin and Adam Tindale. "Flocking: A Framework for Declarative Music-Maki
 
 Clarke, Bruce, and Mark B. N. Hansen. "Introduction." _Emergence and Embodiment: New Essays on Second-Order Systems Theory_. Durham: Duke University Press, 2009. Print.
 
+Crary, Jonathan. "Techniques of the Observer." _October_ 45 (1988): 3-35. Print.
+
 Croft, John. "Composition is Not Research." _Tempo_ 69.272 (2015): 6-11. Print.
 
 Dabbish, Laura, et al. "Social coding in GitHub: transparency and collaboration in an open software repository." _Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work_. 2012. Web. http://www.cs.cmu.edu/afs/cs/Web/People/xia/resources/Documents/cscw2012_Github-paper-FinalVersion-1.pdf
@@ -38,7 +42,13 @@ De Certeau, Michel. _The Practice of Everyday Life_. Berkeley: University of Cal
 
 Epstein, Jean. _The Intelligence of a Machine_. Trans. Christophe Wall-Romana. Minneapolis: Univocal Publishing, 2014.
 
+Flusser, Villem. _Towards a Philosophy of Photography_. Trans. Anthony Mathews. London: Reaktion Books, 2000. Print.
+
 Genosko, Gary. _Felix Guattari: An Aberrant Introduction_. London: Continuum, 2002. Print.
+
+Hansen, Mark. _Bodies in Code._ New York: Routledge, 2006. Print.
+
+Hofmann, Martin, Benjamin C. Pierce, and Daniel Wagner. “Symmetric Lenses”. _ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages_ (2011). Web. http://www.cis.upenn.edu/%7Ebcpierce/papers/symmetric-full.pdf
 
 Idhe, Don. "Stretching the In-between: Embodiment and Beyond". _Foundations of Science_ (2011) 16: 109-118. Print.
 
@@ -50,6 +60,10 @@ Latour, Bruno. "How to Be Iconophilic in Art, Science, and Religion?" _Picturing
 
 Lovink, Geert and Pit Schultz. "There is no information, only transformation: An Interview with Bruno Latour." _Nettime_ 3 September 1997. Web. 6 March 2016. http://www.nettime.org/Lists-Archives/nettime-l-9709/msg00006.html
 
+MacDonald, Scott. _A Critical Cinema 5: Interviews with Independent Filmmakers._ Berkeley: University of California Press, 2006. Print.
+
+Mayne, Judith. _Cinema and Spectatorship_. London: Routledge, 2002.
+
 Mudede, Charles. "The Turntable." _CTheory_ 23 April 2003. Web. 4 March 2016. http://www.ctheory.net/articles.aspx?id=382
 
 Munster, Anna. "Transmateriality: Toward an Energetics of Signal in Contemporary Mediatic Assemblages." _Cultural Studies Review_ 20.1 (2014): 150-167.
@@ -60,7 +74,11 @@ Priest, eldritch. _Boring Formless Nonsense: Experimental Music and the Aestheti
 
 Priest, eldritch. "Felt as Thought (or, Musical Abstraction and the Semblace of Affect)." Sound, Music, Affect: Theorizing Sonic Experience_. Eds. Marie Thompson and Ian Biddle. New York: Bloomsbury, 2013. Print.
 
+Renaud, Nicholas. "Stan Brakhage in Montreal." _Public Intellectual_ 5.4 (2001). Web. http://offscreen.com/view/brakhage4
+
 Schweizer, Harold. _On Waiting_. London: Routledge, 2008. Print.
+
+Sitney, P. Adams._Eyes Upside Down: Visionary Filmmakers and the Heritage of Emerson_. Oxford: Oxford University Press, 2008.
 
 Sullivan, Graeme. "The Artist as Researcher: New Roles for New Realities." _See it Again, Say it Again: The Artist as Researcher_. Ed. Janneke Wessling. Amsterdam: Valiz, 2011. Print.
 
