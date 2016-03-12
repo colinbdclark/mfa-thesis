@@ -1,4 +1,8 @@
-# _In Passing_: Energy, Duration, and Embodied Technics
+# Energy, Duration, and Embodied Technics
+
+The goal of this section is to explore the relationship between information and energy, and to propose my work and those of others as modulators of energy and duration. This section will draw on Latour, Jane Bennett's _vibrant matter_, and Eldritch Priest's _boring._
+
+## _In Passing_
 
 _In Passing_ (2015) is an eighteen-minute video consisting of three close-up shots of a dried-out leaf on the floor of my apartment. It is the kind of scene that would have been easy to miss: an old leaf had blown into the house on a windy summer day and became tangled in cobwebs in the corner, flickering aimlessly with the breeze. There is nothing particularly profound about the scene, no narrative or metaphorical schema motivating its capture on video. It was simply there, nearly but not quite lost amidst the quotidian activities and distractions of life at home.
 
