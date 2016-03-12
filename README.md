@@ -27,7 +27,7 @@ Copyright 2015-2016, Colin Clark. Licensed under the [Creative Commons Attributi
 
 ### Digital Conversations
 * [Greenwich Park](https://vimeo.com/90306050) (2014) 8'03", HD, sound
-* [Freezing](https://vimeo.com/118456434) (2015) 8'53", HD, silent
+* [Freezing](https://vimeo.com/118456434) (2015) 8'53", HD, sound
 * [Football, Shell, Bird](https://vimeo.com/73850194) (2013) 8'34", HD, sound
 * [In Passing](https://github.com/colinbdclark/in-passing-video) [video](https://vimeo.com/129741379) (2015) 18'04", HD, sound
 * Tofino (2016) 35'00", HD, sound
