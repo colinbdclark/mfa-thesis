@@ -15,7 +15,7 @@ I have generalized this concept of lensing from my software architectural resear
 
 ## The Eye Lens
 
-In his book _Metaphors on Vision_, filmmaker Stan Brakhage describes a series of perceptual "exercises" in visionary seeing. They trace perceptual states that both Brakhage and his viewers can deploy while watching and making; lenses through which cinema and the world at large can be creatively bent and refracted. He describes these perceptual states obliquely:
+In his book _Metaphors on Vision_ (and reprinted in _Essential Brakhage_), filmmaker Stan Brakhage describes a series of perceptual "exercises" in visionary seeing. They trace perceptual states that both Brakhage and his viewers can deploy while watching and making; lenses through which cinema and the world at large can be creatively bent and refracted. He describes these perceptual states obliquely:
 
 "Within this aura of non-shape, shapes reshape, and as long as the eye breathes them naturally, sponse and response equally unconscious, they continue their transformatory dance until one is involved purely with the innards of what one once knew only as outline... Willful attention, forced beyond the natural capacity for mental absorption, produces a willy-nilliness less memory-dominated... here one seems more practitioner than patient" (Brakhage 34).
 
@@ -72,7 +72,7 @@ One could too easily read _Side/Walk/Shuttle_ as simply a technical achievement,
 
 5. Inaction or inattention, too, is a form of practice. As in meditation, some things need to be let go of before they can be fully recognized. Unexpected phenomenon can emerge from a failure to engage with a singular subject or focal point, as in the ergodic music of James Tenney, where there is a field of shifting attentional possibilities. In the background, attentionally-neglected art can modulate the time and affect of other quotidian activities, as in the better examples of Brian Eno's ambient music or Erik Satie's Furniture Music. Even, perhaps, the films of R. Bruce Elder, whose _Book of All The Dead_ cycle is of such ferocious duration and intensity that multiple attentional strategies are required, from fastidious focus on one element of his multi-layered compositions, to general "defocused" attention to all components, through to outright inattention or even sleep.
 
-6. Think of the hollow intensity of Hollywooden blockbuster action and thriller films, which rarely succeed in persisting after the fact, beyond their initial "jolt."
+6. Think of the hollow intensity of Hollywooden (a particularly apt Brakhage neologism) blockbuster action and thriller films, which rarely succeed in persisting after the fact, beyond their initial "jolt."
 
 7. I am grateful to Stan Krzyzanowski for taking seriously these perceptual-technical exercises, and for pointing out and contributing to the ambivalence of my argument. His slow motion eye-tracking videos convinced me that perception can be both organic at the same time as being deeply technical, and that continuity and discontinuity inhere in both models. In his experiments, Krzyzanowski filmed his eyes as they tracked both moving and stationary objects (in the latter case, while he moved his head). The motion of his eyes is smooth, but it is interesting to see the peripheral "flicker" of his eye muscles as they train themselves on an object. From my perspective outside his consciousness, he documents an experience at once continuous and discontinuous. Inside, he reports an experience of smoothness and continuity.
 
