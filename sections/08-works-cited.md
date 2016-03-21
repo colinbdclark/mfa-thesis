@@ -2,6 +2,8 @@
 
 Agamben, Giorgio. _What is an Apparatus?_. Trans. David Kishik and Stefan Pedatella. Stanford: Stanford University Press, 2009. Print.
 
+Arnold, Martin. _Observations About, Around and Beside Burrow Out; Burrow In; Burrow Music._ Diss. University of Victoria, 1995. UVicSpace, Web. 20 Mar. 2016. https://dspace.library.uvic.ca/handle/1828/6385
+
 Arnold, Martin. "Rat-drifting." Program notes. _Something New, Something Old, Something Else_. City Hall, Sheffield. 6 May 2009. Web. http://eprints.hud.ac.uk/5697/2/Trunk_SNSOSE_prognotes.pdf
 
 Bal, Mieke. _Travelling Concepts in the Humanities: A Rough Guide_. Toronto: University of Toronto Press, 2002. Print.
@@ -107,6 +109,8 @@ Twigger Holroyd, Amy. "The Spectrum." _Keep and Share_. Web. 13 Feb. 2016. http:
 Voyce, Stephen. "Toward an Open Source Poetics: Appropriation, Collaboration, and the Commons." _Criticism_ 53.3 (2011): 407-438. Print.
 
 Wark, McKenzie. _A Hacker Manifesto_. Cambridge: Harvard University Press, 2004. Print.
+
+Wark, McKenzie. "Designs for a New World." _e-flux_ 58 (2014). Web. http://www.e-flux.com/journal/designs-for-a-new-world/
 
 Wark, McKenzie. _Telesthesia: Communication, Culture and Class_. Cambridge: Polity Press, 2012. Print.
 
