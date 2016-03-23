@@ -19,25 +19,73 @@ Colin Clark is a video artist, composer, and design researcher at OCAD Universit
 ## Programme:
 
 ### Fall
-* _Greenwich Park_ (2014) 8'03" minutes, HD, sound
-* _Digital Crickets_ (2014) 2'49", HD, sound
-* _Indian Horse_ (2015) 10'07", HD, silent
-* _In Passing_ (2015) 18'04", HD, sound
-* _Font Màgica_ by Izabella Pruska-Oldenhof, music by Colin Clark (2016) 6', HD, sound
+
+#### Digital Crickets
+2014
+3 minutes
+HD video, sound
+
+A foggy fall walk in Bellevue, Washington.
+
+#### In Passing
+2015
+18 minutes
+HD video, sound
+
+#### Font Màgica
+by Izabella Pruska-Oldenhof, music by Colin Clark
+2016
+6 minutes
+HD video, sound
+
+"This film is a memory trace of a unique moment on an ordinary September evening near Montjuïc Mountain in Barcelona.
+
+Font Màgica continues my ongoing interest in the protocinematic performances and light technologies used by artists at the turn of the 20th century. The footage for this film was shot in the Fall of 2004, when I was in the midst of my film fugitive l(i)ght (2005), which explored the electric light performances of Loïe Fuller from the same period. Font Màgica means magic fountain in Catalan language. It was designed by Carles Buïgas and completed in 1929 for the International Exhibition in Barcelona. Light fountains (also sometimes called musical fountains) were popular at the turn of last century and were often built in conjunction with major international exhibitions, for example Křižík's Fountain in Prague completed in 1891 for the World Exhibition and the fountains for the 1889, 1900 and the 1931 International Expositions in Paris. Just as the World Fairs attracted masses of people to its international pavilions, so too did the choreographed electric light and music spectacles of the musical fountains at these international exhibitions, and till this day. In many ways, these musical fountains anticipated the visual music films of experimental filmmakers like Viking Eggling, Hans Richter, Oskar Fischinger, and many others who continue in this tradition today.
+
+Music for Font Màgica was composed by Colin Clark, Toronto-based composer and software developer, with the original piano composition by Fryderyk Chopin, Prelude Op. 28, No. 15 "Raindrop," and sounds courtesy of Stanford Solar Center (Sun sounds) and of NASA, Cassini-Huygens mission (radio emissions from Saturn)." - Izabella Pruska-Oldenhof
+
+#### Indian Horse
+2015
+10 minutes
+HD video, silent
+
+On the boat, Darcie reads Indian Horse by Richard Wagamese. I watch, and look out the window.
 
 ### Winter
-* _Hugo_ (2014) 3'48", HD, silent
-* _Freezing_ (2015) 8'53", HD, sound
 
-_Intermission_.
+#### Freezing
+2015
+9 minutes
+HD video, sound
+
+On the cusp of winter, at the shore of Lake Huron, everything is starting to freeze: the beach, my camera (in various ways), and me.
+
+_Intermission_
+
 
 ### Spring
-* _Everything is Awake!_ (2014) 3'50", HD, silent
-* _Tiny Trumpets_ (2013) 13'15", HD, sound
+
+#### Everything is Awake!
+2014
+4 minutes
+HD video, silent
+
+Springtime on the shore of Lake Huron.
 
 
 ### Summer
-* _Drift and Cut_ (2014) 7'33", HD, silent
-* _How Long Will We Live?_ (2016) 3'00", HD, silent
-* _Tofino (2016)_ 25'00", HD, sound
-* _By the Fire_ (2014) 3'49" minutes, HD, silent
+
+#### By the Fire
+2014
+4 minutes
+HD video, silent
+
+#### Tofino
+2016
+28 minutes
+HD video, silent
+
+#### How Long Will We Live?
+2016
+3 minutes
+HD video, silent
